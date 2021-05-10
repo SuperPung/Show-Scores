@@ -1,0 +1,105 @@
+import java.io.*;
+
+/**
+ * @author super
+ */
+public class Score {
+    private static String FILENAME;
+    private static String WRITE_TO_FILENAME;
+
+    public Score(String from, String target) {
+        FILENAME = from;
+        WRITE_TO_FILENAME = target;
+    }
+
+	public void writeToTxt() {
+		String formatContent = formatScore();
+        try {
+            FileWriter fw = new FileWriter(WRITE_TO_FILENAME);
+            BufferedWriter bw = new BufferedWriter(fw);
+            bw.write(formatContent);
+            bw.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+	}
+
+    private String formatScore() {
+        String content = readFromTxt(FILENAME);
+        StringBuffer result = new StringBuffer("作业号\t得分/满分\t学号\t\t\t\t批改日期\t\t\t\t\t结果\r");
+        String[] homeworks = content.split("\\=\\=\\=+");
+        for (String homework : homeworks) {
+            String checkDate = null;
+            String md5 = null;
+            String stuId = null;
+            String hwNum = null;
+            String score = null;
+            String resultType = null;
+            String resultDetail = null;
+
+            for(int i = 0; i < homework.length() - 38; i++){
+                String subStr = homework.substring(i, i + 4);
+                switch (subStr) {
+                    case ("批改日期"):
+                        checkDate = homework.substring(i + 5, i + 24);
+                        break;
+                    case ("文件MD"):
+                        md5 = homework.substring(i + 6, i + 38);
+                        break;
+                    case ("学号:3"):
+                        stuId = homework.substring(i + 3, i + 13);
+                        break;
+                    case ("作业号:"):
+                        hwNum = homework.substring(i + 4, i + 7);
+                        break;
+                    case ("得分/满"):
+                        score = homework.substring(i + 6, i + 13);
+                        break;
+                    case ("结果类型"):
+                        resultType = homework.substring(i + 5, i + 14);
+                        break;
+                    default:
+                }
+            }
+            result
+                    .append(hwNum).append("\t\t")
+                    .append(score).append("\t\t")
+                    .append(stuId).append("\t\t")
+                    //.append(md5).append("\t\t")
+                    .append(checkDate).append("\t\t")
+                    .append(resultType).append("\t\t")
+                    .append("\r");
+        }
+        return result.toString();
+    }
+
+	private String readFromTxt(String filename) {
+		Reader reader = null;
+		StringBuffer buf = new StringBuffer();
+		try {
+			char[] chars = new char[1024];
+			reader = new InputStreamReader(new FileInputStream(filename), "gb2312");
+			int readed = reader.read(chars);
+			while (readed != -1) {
+				buf.append(chars, 0, readed);
+				readed = reader.read(chars);
+			}
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		} finally {
+			close(reader);
+		}
+		return buf.toString();
+	}
+
+	private void close(Closeable inout) {
+		if (inout != null) {
+			try {
+				inout.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+}
