@@ -75,22 +75,23 @@ git clone https://github.com/SuperPung/showScores.git
 eg:
 
 ```
-filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
-├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
+showScores
+├─ .DS_Store
+├─ .git
+├─ .gitignore
+├─ .idea
+├─ README.md
+├─ lib
+├─ out
+│  ├─ production
+│  └─ score.txt
+├─ raw
+│  └─ 3019244114.txt
+├─ showScores.iml
+└─ src
+   ├─ App.java
+   ├─ Homework.java
+   └─ Score.java
 
 ```
 
