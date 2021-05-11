@@ -152,6 +152,6 @@ showScores
 [issues-shield]: https://img.shields.io/github/issues/SuperPung/showScores.svg?style=flat-square
 [issues-url]: https://img.shields.io/github/issues/SuperPung/showScores.svg
 [license-shield]: https://img.shields.io/github/license/SuperPung/showScores.svg?style=flat-square
-[license-url]: https://github.com/SuperPung/showScores/blob/master/LICENSE.txt
+[license-url]: https://github.com/SuperPung/showScores/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/shaojintian
