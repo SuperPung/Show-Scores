@@ -154,4 +154,4 @@ showScores
 [license-shield]: https://img.shields.io/github/license/SuperPung/showScores?style=flat-square
 [license-url]: https://github.com/SuperPung/showScores/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/shaojintian
+[linkedin-url]: https://linkedin.com/in/superpung
