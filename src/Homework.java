@@ -47,4 +47,9 @@ public class Homework {
     public String getResultDetail() {
         return resultDetail;
     }
+
+    @Override
+    public String toString() {
+        return hwNum+"\t\t"+score+"\t\t"+stuId+"\t\t"+checkDate+"\t\t"+resultType+"\t\t"+"\r";
+    }
 }

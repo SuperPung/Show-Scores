@@ -10,10 +10,12 @@ public class Score {
     private static final Set<Character> SCORE_CHAR_SET
             = new HashSet<>(Arrays.asList(
                     '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '/'));
+    private List<Homework> stuHomework;
 
     public Score(String from, String target) {
         FILENAME = from;
         WRITE_TO_FILENAME = target;
+        getStuHomework();
     }
 
 	public void writeToTxt() {
@@ -28,9 +30,8 @@ public class Score {
         }
 	}
 
-    private String formatScore() {
+	private void getStuHomework() {
         String content = readFromTxt(FILENAME);
-        StringBuffer result = new StringBuffer("作业号\t得分/满分\t学号\t\t\t\t批改日期\t\t\t\t\t结果\r");
         String[] homeworks = content.split("\\=\\=\\=+");
         for (String homework : homeworks) {
             String checkDate = null;
@@ -66,19 +67,19 @@ public class Score {
                         score = homework.substring(i + 6, i + pos);
                         break;
                     case ("结果类型"):
-                        resultType = homework.substring(i + 5, i + 14);
+                        resultType = homework.substring(i + 5, i + 14).trim();
                         break;
                     default:
                 }
             }
-            result
-                    .append(hwNum).append("\t\t")
-                    .append(score).append("\t\t")
-                    .append(stuId).append("\t\t")
-                    //.append(md5).append("\t\t")
-                    .append(checkDate).append("\t\t")
-                    .append(resultType).append("\t\t")
-                    .append("\r");
+            stuHomework.add(new Homework(checkDate, md5, stuId, hwNum, score, resultType, resultDetail));
+        }
+    }
+
+    private String formatScore() {
+        StringBuffer result = new StringBuffer("作业号\t得分/满分\t学号\t\t\t\t批改日期\t\t\t\t\t结果\r");
+        for (Homework homework : stuHomework) {
+            result.append(homework);
         }
         return result.toString();
     }
