@@ -72,7 +72,9 @@ public class Score {
                     default:
                 }
             }
-            stuHomework.add(new Homework(checkDate, md5, stuId, hwNum, score, resultType, resultDetail));
+            if (checkDate != null) {
+                stuHomework.add(new Homework(checkDate, md5, stuId, hwNum, score, resultType, resultDetail));
+            }
         }
     }
 
