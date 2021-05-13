@@ -65,7 +65,9 @@ public class AllScore {
             List<String> stuScores = new ArrayList<>();
             for (Homework homework : stuHomework) {
                 String hwNum = homework.getHwNum();
-                hwNums.add(hwNum);
+                if (!hwNums.contains(hwNum) && hwNum != null) {
+                    hwNums.add(hwNum);
+                }
                 // remove total
                 String hwScore = homework.getScore();
                 stuScores.add(hwScore);
@@ -91,5 +93,7 @@ public class AllScore {
                 }
             }
         }
+        // a good method to sort a String List
+        stuIds.sort(Comparator.naturalOrder());
     }
 }
