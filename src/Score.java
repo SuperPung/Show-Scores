@@ -1,4 +1,5 @@
 import java.io.*;
+import java.util.*;
 
 /**
  * @author super
@@ -6,6 +7,9 @@ import java.io.*;
 public class Score {
     private static String FILENAME;
     private static String WRITE_TO_FILENAME;
+    private static final Set<Character> SCORE_CHAR_SET
+            = new HashSet<>(Arrays.asList(
+                    '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '/'));
 
     public Score(String from, String target) {
         FILENAME = from;
@@ -53,7 +57,13 @@ public class Score {
                         hwNum = homework.substring(i + 4, i + 7);
                         break;
                     case ("得分/满"):
-                        score = homework.substring(i + 6, i + 13);
+                        int pos;
+                        for (pos = 6; pos < 14; pos++) {
+                            if (!SCORE_CHAR_SET.contains(homework.charAt(i + pos))) {
+                                break;
+                            }
+                        }
+                        score = homework.substring(i + 6, i + pos);
                         break;
                     case ("结果类型"):
                         resultType = homework.substring(i + 5, i + 14);
