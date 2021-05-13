@@ -10,12 +10,12 @@ public class Score {
     private static final Set<Character> SCORE_CHAR_SET
             = new HashSet<>(Arrays.asList(
                     '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '/'));
-    private List<Homework> stuHomework;
+    private final List<Homework> stuHomework = new ArrayList<>();
 
     public Score(String from, String target) {
         FILENAME = from;
         WRITE_TO_FILENAME = target;
-        getStuHomework();
+        getStuHomeworkFromFile();
     }
 
 	public void writeToTxt() {
@@ -30,7 +30,7 @@ public class Score {
         }
 	}
 
-	private void getStuHomework() {
+	private void getStuHomeworkFromFile() {
         String content = readFromTxt(FILENAME);
         String[] homeworks = content.split("\\=\\=\\=+");
         for (String homework : homeworks) {
@@ -74,6 +74,10 @@ public class Score {
             }
             stuHomework.add(new Homework(checkDate, md5, stuId, hwNum, score, resultType, resultDetail));
         }
+    }
+
+    public List<Homework> getStuHomework() {
+        return stuHomework;
     }
 
     private String formatScore() {

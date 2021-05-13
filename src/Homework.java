@@ -40,6 +40,14 @@ public class Homework {
         return score;
     }
 
+    public String getScoreWithoutTotal() {
+        if (score == null) {
+            return null;
+        }
+        String[] scoreAndTotal = score.split("/");
+        return scoreAndTotal[0];
+    }
+
     public String getResultType() {
         return resultType;
     }
