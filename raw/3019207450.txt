@@ -1,0 +1,132 @@
+批改日期：2021/05/16 15:54:23
+文件MD5=c5f3548ed3c8e86c7dba7db9b091dd73
+D:\java_test\STU_SOURCE_HOME\h51\3019207450\com\huawei\classroom\student\HongBao.java (系统找不到指定的路径。)
+java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h51\3019207450\com\huawei\classroom\student\HongBao.java (系统找不到指定的路径。)
+
+学号:3019207450 
+批改日期:2021/05/13 14:32:09
+作业号:h51 
+得分/满分:0/100
+结果类型:测试用例有失败
+结果描述:编译student.h51成功
+case 1 测试用例失败!
+
+============================================================
+批改日期：2021/05/16 15:56:02
+文件MD5=e4f1f38a4a429125de5ff0203acb91a8
+D:\java_test\STU_SOURCE_HOME\h52\3019207450\com\huawei\classroom\student\NumDecompose.java (系统找不到指定的路径。)
+java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h52\3019207450\com\huawei\classroom\student\NumDecompose.java (系统找不到指定的路径。)
+
+学号:3019207450 
+批改日期:2021/05/13 14:33:57
+作业号:h52 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h52成功
+case 1 测试用例通过!
+case 2 测试用例通过!
+
+============================================================
+批改日期：2021/05/16 17:14:48
+文件MD5=e8b02a4ef40fb103692a964c90592b74
+D:\java_test\STU_SOURCE_HOME\h53\3019207450\com\huawei\classroom\student\Rabbit.java (系统找不到指定的路径。)
+java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h53\3019207450\com\huawei\classroom\student\Rabbit.java (系统找不到指定的路径。)
+
+学号:3019207450 
+批改日期:2021/05/13 20:19:51
+作业号:h53 
+得分/满分:0/100
+结果类型:测试用例有失败
+结果描述:编译student.h53成功
+case 1 测试用例失败!
+
+============================================================
+批改日期：2021/05/16 15:58:48
+文件MD5=08b996113be6cdca3927a4756ce164b0
+D:\java_test\STU_SOURCE_HOME\h54\3019207450\com\huawei\classroom\student\PasswordChecker.java (系统找不到指定的路径。)
+java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h54\3019207450\com\huawei\classroom\student\PasswordChecker.java (系统找不到指定的路径。)
+
+学号:3019207450 
+批改日期:2021/05/13 14:37:19
+作业号:h54 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h54成功
+case 1 测试用例通过!
+case 2 测试用例通过!
+case 3 测试用例通过!
+
+============================================================
+批改日期：2021/05/16 15:59:40
+文件MD5=e656a4abc4c9f3def0d5a27d3d4cb5ff
+D:\java_test\STU_SOURCE_HOME\h55\3019207450\com\huawei\classroom\student\analysis.java (系统找不到指定的路径。)
+java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h55\3019207450\com\huawei\classroom\student\analysis.java (系统找不到指定的路径。)
+
+学号:3019207450 
+批改日期:2021/05/13 14:38:27
+作业号:h55 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h55成功
+case 1 测试用例通过!
+
+============================================================
+批改日期：2021/05/16 16:00:41
+文件MD5=101ad455059e9512d9a9fb4646dbce28
+D:\java_test\STU_SOURCE_HOME\h56\3019207450\com\huawei\classroom\student\FileTool.java (系统找不到指定的路径。)
+java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h56\3019207450\com\huawei\classroom\student\FileTool.java (系统找不到指定的路径。)
+
+学号:3019207450 
+批改日期:2021/05/13 14:39:28
+作业号:h56 
+得分/满分:0/100
+结果类型:测试用例有失败
+结果描述:编译student.h56成功
+case 1 测试用例失败!
+
+============================================================
+批改日期：2021/05/16 16:01:45
+文件MD5=2438573e49c2b85f7d947c75931d9410
+D:\java_test\STU_SOURCE_HOME\h57\3019207450\com\huawei\classroom\student\FileTool.java (系统找不到指定的路径。)
+java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h57\3019207450\com\huawei\classroom\student\FileTool.java (系统找不到指定的路径。)
+
+学号:3019207450 
+批改日期:2021/05/13 14:57:58
+作业号:h57 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h57成功
+case 1 测试用例通过!
+
+============================================================
+批改日期：2021/05/16 17:17:47
+文件MD5=66695d2b8a16f712e03cd158a04d825e
+D:\java_test\STU_SOURCE_HOME\h58\3019207450\com\huawei\classroom\student\Test.java (系统找不到指定的路径。)
+java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h58\3019207450\com\huawei\classroom\student\Test.java (系统找不到指定的路径。)
+
+学号:3019207450 
+批改日期:2021/05/13 15:56:11
+作业号:h58 
+得分/满分:0/100
+结果类型:file_un_exits
+结果描述:编译student.h58失败
+D:\java_test\STU_COMPILE_HOME\h58\3019207450\com\huawei\classroom\student\h58\VoteRecord.java:3: 错误: 程序包com.huawei.classroom.student.h55不存在
+import com.huawei.classroom.student.h55.node;
+                                       ^
+student.h58 目录下没有编译好的文件！
+
+============================================================
+批改日期：2021/05/13 22:34:50
+文件MD5=9d4a9184ca0b66907cbc7b074d311056
+D:\java_test\STU_SOURCE_HOME\h59\3019207450\com\huawei\classroom\student\reactions.txt (系统找不到指定的路径。)
+java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h59\3019207450\com\huawei\classroom\student\reactions.txt (系统找不到指定的路径。)
+
+学号:3019207450 
+批改日期:2021/05/13 15:08:17
+作业号:h59 
+得分/满分:0/100
+结果类型:测试用例有失败
+结果描述:编译student.h59成功
+case 1 测试用例失败!
+
+============================================================

@@ -1,0 +1,72 @@
+批改日期：2021/05/16 15:55:06
+文件MD5=f40abd4054316a6b8e3a2aa2c4731973
+
+学号:3019244353 
+批改日期:2021/05/16 15:55:06
+作业号:h51 
+得分/满分:0/100
+结果类型:run_error
+结果描述:编译student.h51成功
+bound must be positive
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Unknown Source)
+	at com.huawei.classroom.student.h51.HongBao.getHongbao(HongBao.java:24)
+	at com.huawei.classroom.student.h51.MyScoreh51.lambda$doEval$0(MyScoreh51.java:34)
+	at com.huawei.classroom.teacher.myexam.CTestCase.test(CTestCase.java:74)
+	at com.huawei.classroom.student.h51.MyScoreh51.doEval(MyScoreh51.java:38)
+	at com.huawei.classroom.teacher.myexam.AbstractMyScore.eval(AbstractMyScore.java:38)
+	at com.huawei.classroom.teacher.myexam.MyScoreApplication.main(MyScoreApplication.java:45)
+
+
+============================================================
+批改日期：2021/05/16 15:57:10
+文件MD5=176d28592e94c76e88d5d0ee4f266319
+
+学号:3019244353 
+批改日期:2021/05/16 15:57:10
+作业号:h52 
+得分/满分:0/100
+结果类型:测试用例有失败
+结果描述:编译student.h52成功
+case 1 测试用例失败!
+case 2 测试用例失败!
+
+============================================================
+批改日期：2021/05/16 17:16:44
+文件MD5=file unexist
+3019244353_温馨米米_h53.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 15:59:14
+文件MD5=99a3883685c031139759eb4cb74172f1
+
+学号:3019244353 
+批改日期:2021/05/16 15:59:14
+作业号:h54 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h54成功
+case 1 测试用例通过!
+case 2 测试用例通过!
+case 3 测试用例通过!
+
+============================================================
+批改日期：2021/05/16 16:00:19
+文件MD5=file unexist
+3019244353_温馨米米_h55.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 16:01:15
+文件MD5=file unexist
+3019244353_温馨米米_h56.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 16:02:04
+文件MD5=file unexist
+3019244353_温馨米米_h57.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 17:18:28
+文件MD5=file unexist
+3019244353_温馨米米_h58.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 16:02:58
+文件MD5=file unexist
+3019244353_温馨米米_h59.zip 文件不存在!
+============================================================

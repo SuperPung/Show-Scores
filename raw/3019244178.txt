@@ -1,0 +1,88 @@
+批改日期：2021/05/13 16:02:23
+文件MD5=b2374deff8039b96ba502fdaf7675033
+
+学号:3019244178 
+批改日期:2021/05/13 16:02:23
+作业号:h51 
+得分/满分:0/100
+结果类型:run_error
+结果描述:编译student.h51成功
+bound must be positive
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Unknown Source)
+	at com.huawei.classroom.student.h51.HongBao.getHongbao(HongBao.java:26)
+	at com.huawei.classroom.student.h51.MyScoreh51.lambda$doEval$0(MyScoreh51.java:34)
+	at com.huawei.classroom.teacher.myexam.CTestCase.test(CTestCase.java:74)
+	at com.huawei.classroom.student.h51.MyScoreh51.doEval(MyScoreh51.java:38)
+	at com.huawei.classroom.teacher.myexam.AbstractMyScore.eval(AbstractMyScore.java:38)
+	at com.huawei.classroom.teacher.myexam.MyScoreApplication.main(MyScoreApplication.java:45)
+
+
+============================================================
+批改日期：2021/05/13 16:04:28
+文件MD5=c7fb5fc0af7243ede6453d1cfe0a657b
+
+学号:3019244178 
+批改日期:2021/05/13 16:04:28
+作业号:h52 
+得分/满分:0/100
+结果类型:测试用例有失败
+结果描述:编译student.h52成功
+case 1 测试用例失败!
+case 2 测试用例失败!
+
+============================================================
+批改日期：2021/05/16 17:15:24
+文件MD5=86596beb81d78538dad343c4434725a8
+
+学号:3019244178 
+批改日期:2021/05/16 17:15:24
+作业号:h53 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h53成功
+case 1 测试用例通过!
+
+============================================================
+批改日期：2021/05/13 16:07:29
+文件MD5=196d9e1cf5523c083dbd2ee2d507fc6d
+
+学号:3019244178 
+批改日期:2021/05/13 16:07:29
+作业号:h54 
+得分/满分:70/100
+结果类型:测试用例有失败
+结果描述:编译student.h54成功
+case 1 测试用例通过!
+case 2 测试用例失败!
+case 3 测试用例通过!
+
+============================================================
+批改日期：2021/05/13 16:08:32
+文件MD5=10fbfc16509fffee994ffde80b2549b9
+
+学号:3019244178 
+批改日期:2021/05/13 16:08:32
+作业号:h55 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h55成功
+case 1 测试用例通过!
+
+============================================================
+批改日期：2021/05/16 16:00:50
+文件MD5=file unexist
+3019244178_张希程_h56.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 16:01:56
+文件MD5=file unexist
+3019244178_张希程_h57.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 17:18:03
+文件MD5=file unexist
+3019244178_张希程_h58.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 16:02:49
+文件MD5=file unexist
+3019244178_张希程_h59.zip 文件不存在!
+============================================================

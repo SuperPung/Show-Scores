@@ -1,0 +1,80 @@
+批改日期：2021/05/13 14:33:12
+文件MD5=01d5a292de96944d1059a1e5c3168f4c
+
+学号:3019244204 
+批改日期:2021/05/13 14:33:12
+作业号:h51 
+得分/满分:0/100
+结果类型:run_error
+结果描述:编译student.h51成功
+bound must be positive
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Unknown Source)
+	at com.huawei.classroom.student.h51.HongBao.getHongbao(HongBao.java:22)
+	at com.huawei.classroom.student.h51.MyScoreh51.lambda$doEval$0(MyScoreh51.java:34)
+	at com.huawei.classroom.teacher.myexam.CTestCase.test(CTestCase.java:74)
+	at com.huawei.classroom.student.h51.MyScoreh51.doEval(MyScoreh51.java:38)
+	at com.huawei.classroom.teacher.myexam.AbstractMyScore.eval(AbstractMyScore.java:38)
+	at com.huawei.classroom.teacher.myexam.MyScoreApplication.main(MyScoreApplication.java:45)
+
+
+============================================================
+批改日期：2021/05/16 15:56:37
+文件MD5=4074f1ede1ac7cec963a96b5eac6659a
+
+学号:3019244204 
+批改日期:2021/05/16 15:56:37
+作业号:h52 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h52成功
+case 1 测试用例通过!
+case 2 测试用例通过!
+
+============================================================
+批改日期：2021/05/16 17:15:35
+文件MD5=f9d1f4c032af63cd117203915ee0b979
+
+学号:3019244204 
+批改日期:2021/05/16 17:15:35
+作业号:h53 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h53成功
+case 1 测试用例通过!
+
+============================================================
+批改日期：2021/05/16 15:58:59
+文件MD5=243ad8ec17d413ba49b4347ea2c49441
+
+学号:3019244204 
+批改日期:2021/05/16 15:58:59
+作业号:h54 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h54成功
+case 1 测试用例通过!
+case 2 测试用例通过!
+case 3 测试用例通过!
+
+============================================================
+批改日期：2021/05/16 15:59:55
+文件MD5=file unexist
+3019244204_宋钊_h55.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 16:00:55
+文件MD5=file unexist
+3019244204_宋钊_h56.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 16:02:01
+文件MD5=file unexist
+3019244204_宋钊_h57.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 17:18:06
+文件MD5=file unexist
+3019244204_宋钊_h58.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 16:02:52
+文件MD5=file unexist
+3019244204_宋钊_h59.zip 文件不存在!
+============================================================

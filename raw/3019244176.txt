@@ -1,0 +1,89 @@
+批改日期：2021/05/13 16:02:19
+文件MD5=14bc3108baecadf4c3bc4c23b932707c
+
+学号:3019244176 
+批改日期:2021/05/13 16:02:19
+作业号:h51 
+得分/满分:0/100
+结果类型:run_error
+结果描述:编译student.h51成功
+bound must be greater than origin
+java.lang.IllegalArgumentException: bound must be greater than origin
+	at java.util.concurrent.ThreadLocalRandom.nextDouble(Unknown Source)
+	at com.huawei.classroom.student.h51.HongBao.hongbao(HongBao.java:27)
+	at com.huawei.classroom.student.h51.HongBao.getHongbao(HongBao.java:47)
+	at com.huawei.classroom.student.h51.MyScoreh51.lambda$doEval$0(MyScoreh51.java:34)
+	at com.huawei.classroom.teacher.myexam.CTestCase.test(CTestCase.java:74)
+	at com.huawei.classroom.student.h51.MyScoreh51.doEval(MyScoreh51.java:38)
+	at com.huawei.classroom.teacher.myexam.AbstractMyScore.eval(AbstractMyScore.java:38)
+	at com.huawei.classroom.teacher.myexam.MyScoreApplication.main(MyScoreApplication.java:45)
+
+
+============================================================
+批改日期：2021/05/13 16:04:25
+文件MD5=0b9a141856dad0effe792ca08b624ef1
+
+学号:3019244176 
+批改日期:2021/05/13 16:04:25
+作业号:h52 
+得分/满分:0/100
+结果类型:测试用例有失败
+结果描述:编译student.h52成功
+case 1 测试用例失败!
+case 2 测试用例失败!
+
+============================================================
+批改日期：2021/05/16 17:15:21
+文件MD5=b1e238dfd212eaa12aabc5c777ae2ab2
+
+学号:3019244176 
+批改日期:2021/05/16 17:15:21
+作业号:h53 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h53成功
+case 1 测试用例通过!
+
+============================================================
+批改日期：2021/05/13 16:07:27
+文件MD5=a0f0ecaf8f90d93e086e623cba3760c3
+
+学号:3019244176 
+批改日期:2021/05/13 16:07:27
+作业号:h54 
+得分/满分:70/100
+结果类型:测试用例有失败
+结果描述:编译student.h54成功
+case 1 测试用例通过!
+case 2 测试用例失败!
+case 3 测试用例通过!
+
+============================================================
+批改日期：2021/05/13 16:08:30
+文件MD5=72f3b3a9e20a7e07401cf8f5a7351597
+
+学号:3019244176 
+批改日期:2021/05/13 16:08:30
+作业号:h55 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h55成功
+case 1 测试用例通过!
+
+============================================================
+批改日期：2021/05/16 16:00:50
+文件MD5=file unexist
+3019244176_刘航_h56.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 16:01:56
+文件MD5=file unexist
+3019244176_刘航_h57.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 17:18:03
+文件MD5=file unexist
+3019244176_刘航_h58.zip 文件不存在!
+============================================================
+批改日期：2021/05/16 16:02:49
+文件MD5=file unexist
+3019244176_刘航_h59.zip 文件不存在!
+============================================================
