@@ -61,7 +61,7 @@
 
 还可以查看所有同学的成绩：
 
-![](https://super-bucket1.oss-cn-beijing.aliyuncs.com/20210518203955.png)
+![20210518203955](https://super-bucket1.oss-cn-beijing.aliyuncs.com/20210518203955.png)
 
 
 
