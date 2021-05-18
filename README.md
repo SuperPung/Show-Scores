@@ -57,11 +57,11 @@
 
 直观查看个人所有成绩：
 
-![image-20210518203603057](https://super-bucket1.oss-cn-beijing.aliyuncs.com/image-20210518203603057.png)
+![all](./img/all.png)
 
 还可以查看所有同学的成绩：
 
-![20210518203955](https://super-bucket1.oss-cn-beijing.aliyuncs.com/20210518203955.png)
+![single](./img/single.png)
 
 
 
