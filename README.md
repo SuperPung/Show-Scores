@@ -184,14 +184,14 @@ Show-Scores
 
 <!-- links -->
 
-[your-project-path]:SuperPung/showScores
-[contributors-shield]: https://img.shields.io/github/contributors/SuperPung/showScores.svg?style=flat-square
-[contributors-url]: https://github.com/SuperPung/showScores/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SuperPung/showScores.svg?style=flat-square
-[forks-url]: https://github.com/SuperPung/showScores/network/members
-[stars-shield]: https://img.shields.io/github/stars/SuperPung/showScores.svg?style=flat-square
-[stars-url]: https://github.com/SuperPung/showScores/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SuperPung/showScores.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/SuperPung/showScores.svg
-[license-shield]: https://img.shields.io/github/license/SuperPung/showScores?style=flat-square
-[license-url]: https://github.com/SuperPung/showScores/blob/master/LICENSE
+[your-project-path]:SuperPung/Show-Scores
+[contributors-shield]: https://img.shields.io/github/contributors/SuperPung/Show-Scores.svg?style=flat-square
+[contributors-url]: https://github.com/SuperPung/Show-Scores/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SuperPung/Show-Scores.svg?style=flat-square
+[forks-url]: https://github.com/SuperPung/Show-Scores/network/members
+[stars-shield]: https://img.shields.io/github/stars/SuperPung/Show-Scores.svg?style=flat-square
+[stars-url]: https://github.com/SuperPung/Show-Scores/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SuperPung/Show-Scores.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/SuperPung/Show-Scores.svg
+[license-shield]: https://img.shields.io/github/license/SuperPung/Show-Scores?style=flat-square
+[license-url]: https://github.com/SuperPung/Show-Scores/blob/master/LICENSE
