@@ -57,11 +57,11 @@
 
 直观查看个人所有成绩：
 
-![all](./img/all.png)
+![single](./img/single.png)
 
 还可以查看所有同学的成绩：
 
-![single](./img/single.png)
+![all](./img/all.png)
 
 
 
