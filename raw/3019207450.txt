@@ -1,10 +1,8 @@
-批改日期：2021/05/16 15:54:23
-文件MD5=c5f3548ed3c8e86c7dba7db9b091dd73
-D:\java_test\STU_SOURCE_HOME\h51\3019207450\com\huawei\classroom\student\HongBao.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h51\3019207450\com\huawei\classroom\student\HongBao.java (系统找不到指定的路径。)
+批改日期：2021/05/17 20:15:02
+文件MD5=28c9e1ac24740a57370d9b281411db7e
 
 学号:3019207450 
-批改日期:2021/05/13 14:32:09
+批改日期:2021/05/17 20:15:02
 作业号:h51 
 得分/满分:0/100
 结果类型:测试用例有失败
@@ -12,13 +10,11 @@ java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h51\3019207450\com\h
 case 1 测试用例失败!
 
 ============================================================
-批改日期：2021/05/16 15:56:02
-文件MD5=e4f1f38a4a429125de5ff0203acb91a8
-D:\java_test\STU_SOURCE_HOME\h52\3019207450\com\huawei\classroom\student\NumDecompose.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h52\3019207450\com\huawei\classroom\student\NumDecompose.java (系统找不到指定的路径。)
+批改日期：2021/05/17 20:19:08
+文件MD5=f2b1048fd0bd656a67255371c1cb0016
 
 学号:3019207450 
-批改日期:2021/05/13 14:33:57
+批改日期:2021/05/17 20:19:08
 作业号:h52 
 得分/满分:100/100
 结果类型:测试用例完全通过!
@@ -27,27 +23,23 @@ case 1 测试用例通过!
 case 2 测试用例通过!
 
 ============================================================
-批改日期：2021/05/16 17:14:48
-文件MD5=e8b02a4ef40fb103692a964c90592b74
-D:\java_test\STU_SOURCE_HOME\h53\3019207450\com\huawei\classroom\student\Rabbit.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h53\3019207450\com\huawei\classroom\student\Rabbit.java (系统找不到指定的路径。)
+批改日期：2021/05/18 16:00:09
+文件MD5=ffb559664828223b0bb689f87c843b0a
 
 学号:3019207450 
-批改日期:2021/05/13 20:19:51
+批改日期:2021/05/18 16:00:09
 作业号:h53 
-得分/满分:0/100
-结果类型:测试用例有失败
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h53成功
-case 1 测试用例失败!
+case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/05/16 15:58:48
-文件MD5=08b996113be6cdca3927a4756ce164b0
-D:\java_test\STU_SOURCE_HOME\h54\3019207450\com\huawei\classroom\student\PasswordChecker.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h54\3019207450\com\huawei\classroom\student\PasswordChecker.java (系统找不到指定的路径。)
+批改日期：2021/05/17 20:25:37
+文件MD5=54a9de662477c9432f218ee98e78610b
 
 学号:3019207450 
-批改日期:2021/05/13 14:37:19
+批改日期:2021/05/17 20:25:38
 作业号:h54 
 得分/满分:100/100
 结果类型:测试用例完全通过!
@@ -57,13 +49,11 @@ case 2 测试用例通过!
 case 3 测试用例通过!
 
 ============================================================
-批改日期：2021/05/16 15:59:40
-文件MD5=e656a4abc4c9f3def0d5a27d3d4cb5ff
-D:\java_test\STU_SOURCE_HOME\h55\3019207450\com\huawei\classroom\student\analysis.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h55\3019207450\com\huawei\classroom\student\analysis.java (系统找不到指定的路径。)
+批改日期：2021/05/17 20:28:16
+文件MD5=f6d1590940672003dd7830ebad994eae
 
 学号:3019207450 
-批改日期:2021/05/13 14:38:27
+批改日期:2021/05/17 20:28:16
 作业号:h55 
 得分/满分:100/100
 结果类型:测试用例完全通过!
@@ -71,13 +61,11 @@ java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h55\3019207450\com\h
 case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/05/16 16:00:41
-文件MD5=101ad455059e9512d9a9fb4646dbce28
-D:\java_test\STU_SOURCE_HOME\h56\3019207450\com\huawei\classroom\student\FileTool.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h56\3019207450\com\huawei\classroom\student\FileTool.java (系统找不到指定的路径。)
+批改日期：2021/05/17 20:30:47
+文件MD5=4978da2443a807f087ab293a7da0b320
 
 学号:3019207450 
-批改日期:2021/05/13 14:39:28
+批改日期:2021/05/17 20:30:47
 作业号:h56 
 得分/满分:0/100
 结果类型:测试用例有失败
@@ -85,13 +73,11 @@ java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h56\3019207450\com\h
 case 1 测试用例失败!
 
 ============================================================
-批改日期：2021/05/16 16:01:45
-文件MD5=2438573e49c2b85f7d947c75931d9410
-D:\java_test\STU_SOURCE_HOME\h57\3019207450\com\huawei\classroom\student\FileTool.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h57\3019207450\com\huawei\classroom\student\FileTool.java (系统找不到指定的路径。)
+批改日期：2021/05/17 20:32:51
+文件MD5=3bc6ff6d3dd3de917e2e5a96ade78f7e
 
 学号:3019207450 
-批改日期:2021/05/13 14:57:58
+批改日期:2021/05/17 20:32:51
 作业号:h57 
 得分/满分:100/100
 结果类型:测试用例完全通过!
@@ -99,34 +85,35 @@ java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h57\3019207450\com\h
 case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/05/16 17:17:47
-文件MD5=66695d2b8a16f712e03cd158a04d825e
-D:\java_test\STU_SOURCE_HOME\h58\3019207450\com\huawei\classroom\student\Test.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h58\3019207450\com\huawei\classroom\student\Test.java (系统找不到指定的路径。)
+批改日期：2021/05/17 20:36:19
+文件MD5=74acce4abe9a013e82f3921c164139d9
 
 学号:3019207450 
-批改日期:2021/05/13 15:56:11
+批改日期:2021/05/17 20:36:20
 作业号:h58 
-得分/满分:0/100
-结果类型:file_un_exits
-结果描述:编译student.h58失败
-D:\java_test\STU_COMPILE_HOME\h58\3019207450\com\huawei\classroom\student\h58\VoteRecord.java:3: 错误: 程序包com.huawei.classroom.student.h55不存在
-import com.huawei.classroom.student.h55.node;
-                                       ^
-student.h58 目录下没有编译好的文件！
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h58成功
+case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/05/13 22:34:50
-文件MD5=9d4a9184ca0b66907cbc7b074d311056
-D:\java_test\STU_SOURCE_HOME\h59\3019207450\com\huawei\classroom\student\reactions.txt (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h59\3019207450\com\huawei\classroom\student\reactions.txt (系统找不到指定的路径。)
+批改日期：2021/05/17 20:37:02
+文件MD5=ecfd5b886251f36b047df763ca4d2262
 
 学号:3019207450 
-批改日期:2021/05/13 15:08:17
+批改日期:2021/05/17 20:37:02
 作业号:h59 
-得分/满分:0/100
-结果类型:测试用例有失败
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h59成功
-case 1 测试用例失败!
+case 1 测试用例通过!
 
+============================================================
+批改日期：2021/05/18 15:25:37
+文件MD5=file unexist
+3019207450_俞林昊_h60.zip 文件不存在!
+============================================================
+批改日期：2021/05/17 23:41:13
+文件MD5=file unexist
+3019207450_俞林昊_h61.zip 文件不存在!
 ============================================================

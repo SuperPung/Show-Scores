@@ -1,20 +1,29 @@
-批改日期：2021/05/13 16:02:29
+批改日期：2021/05/17 20:16:05
 文件MD5=89f9cfcb69c36576ee94660e515bb612
 
 学号:3019244184 
-批改日期:2021/05/13 16:02:29
+批改日期:2021/05/17 20:16:05
 作业号:h51 
 得分/满分:0/100
-结果类型:测试用例有失败
+结果类型:run_error
 结果描述:编译student.h51成功
-case 1 测试用例失败!
+bound must be positive
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Unknown Source)
+	at com.huawei.classroom.student.h51.HongBao.getHongbao(HongBao.java:26)
+	at com.huawei.classroom.student.h51.MyScoreh51.lambda$doEval$0(MyScoreh51.java:34)
+	at com.huawei.classroom.teacher.myexam.CTestCase.test(CTestCase.java:74)
+	at com.huawei.classroom.student.h51.MyScoreh51.doEval(MyScoreh51.java:38)
+	at com.huawei.classroom.teacher.myexam.AbstractMyScore.eval(AbstractMyScore.java:38)
+	at com.huawei.classroom.teacher.myexam.MyScoreApplication.main(MyScoreApplication.java:45)
+
 
 ============================================================
-批改日期：2021/05/13 16:04:33
+批改日期：2021/05/17 20:20:17
 文件MD5=033cb3772ec350e9f44889ba40a29d31
 
 学号:3019244184 
-批改日期:2021/05/13 16:04:33
+批改日期:2021/05/17 20:20:17
 作业号:h52 
 得分/满分:100/100
 结果类型:测试用例完全通过!
@@ -23,15 +32,15 @@ case 1 测试用例通过!
 case 2 测试用例通过!
 
 ============================================================
-批改日期：2021/05/16 17:15:29
+批改日期：2021/05/18 16:00:55
 文件MD5=d41d8cd98f00b204e9800998ecf8427e
 Archive file can't be opened with none of the registered codecs
 ============================================================
-批改日期：2021/05/13 16:07:32
+批改日期：2021/05/17 20:26:21
 文件MD5=bb5a381a9c522ae81099e703ee9dc5f4
 
 学号:3019244184 
-批改日期:2021/05/13 16:07:32
+批改日期:2021/05/17 20:26:21
 作业号:h54 
 得分/满分:100/100
 结果类型:测试用例完全通过!
@@ -41,11 +50,11 @@ case 2 测试用例通过!
 case 3 测试用例通过!
 
 ============================================================
-批改日期：2021/05/16 15:59:49
+批改日期：2021/05/17 20:28:52
 文件MD5=6eea0b85ae9ae897aaf511572db9e220
 
 学号:3019244184 
-批改日期:2021/05/16 15:59:49
+批改日期:2021/05/17 20:28:52
 作业号:h55 
 得分/满分:0/100
 结果类型:run_error
@@ -55,19 +64,19 @@ D:\java_test\STU_COMPILE_HOME\h55\3019244184\com\huawei\classroom\student\h55\My
 			           ^
 
 ============================================================
-批改日期：2021/05/16 16:00:53
+批改日期：2021/05/17 20:35:39
 文件MD5=file unexist
 3019244184_宋杰_h56.zip 文件不存在!
 ============================================================
-批改日期：2021/05/16 16:01:59
+批改日期：2021/05/17 20:33:17
 文件MD5=d41d8cd98f00b204e9800998ecf8427e
 Archive file can't be opened with none of the registered codecs
 ============================================================
-批改日期：2021/05/16 17:18:03
+批改日期：2021/05/17 20:36:30
 文件MD5=file unexist
 3019244184_宋杰_h58.zip 文件不存在!
 ============================================================
-批改日期：2021/05/16 16:02:49
+批改日期：2021/05/17 20:37:08
 文件MD5=file unexist
 3019244184_宋杰_h59.zip 文件不存在!
 ============================================================
