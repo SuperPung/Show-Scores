@@ -1,4 +1,4 @@
-批改日期：2021/05/17 20:17:02
+批改日期：2021/05/18 22:13:38
 文件MD5=e3809ff25cba10993148369ed789a82f
 D:\java_test\STU_SOURCE_HOME\h51\3019244268\com\huawei\classroom\student\HongBao.java (系统找不到指定的路径。)
 java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h51\3019244268\com\huawei\classroom\student\HongBao.java (系统找不到指定的路径。)
@@ -42,4 +42,13 @@ java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h58\3019244268\com\h
 文件MD5=d7e40ba46d0aae2ed0c940f4022f6761
 D:\java_test\STU_SOURCE_HOME\h59\3019244268\com\huawei\classroom\student\reactions.txt (系统找不到指定的路径。)
 java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h59\3019244268\com\huawei\classroom\student\reactions.txt (系统找不到指定的路径。)
+============================================================
+批改日期：2021/05/18 22:18:18
+文件MD5=bc5448774d5efd4cbc0c216cb8c51fd1
+D:\java_test\STU_SOURCE_HOME\h60\3019244268\com\huawei\classroom\student\ChatClient.java (系统找不到指定的路径。)
+java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h60\3019244268\com\huawei\classroom\student\ChatClient.java (系统找不到指定的路径。)
+============================================================
+批改日期：2021/05/19 22:27:28
+文件MD5=file unexist
+3019244268_杨诗宇_h61.zip 文件不存在!
 ============================================================
