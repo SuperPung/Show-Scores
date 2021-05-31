@@ -1,3 +1,40 @@
+批改日期：2021/05/31 21:30:44
+文件MD5=ac4b642a27d51ef649efa1330598ee68
+
+学号:3019244334 
+批改日期:2021/05/31 21:30:44
+作业号:h19 
+程序号：1 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q01成功
+wangwang 测试用例通过!
+
+程序号：2 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q02成功
+wangwang 测试用例通过!
+
+程序号：3 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q03成功
+getMin 测试用例通过!
+
+程序号：4 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q04成功
+removeDulpicatedChar 测试用例通过!
+
+程序号：5 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q05成功
+sort 测试用例通过!
+
+============================================================
 批改日期：2021/05/18 22:14:11
 文件MD5=702ab864cc3d31a70c9e2cb5b6d916a6
 
@@ -135,42 +172,56 @@ case3: sa=[null]	sb=[null]	sc=[a]
 case 3 测试用例3通过!
 
 ============================================================
-批改日期：2021/05/17 23:41:26
-文件MD5=24f105c40b1c0dbbe89424531ea3b501
+批改日期：2021/05/26 20:15:14
+文件MD5=413a5755df97d517c203c86620b0c2da
 
 学号:3019244334 
-批改日期:2021/05/17 23:41:26
+批改日期:2021/05/26 20:15:14
 作业号:h61 
-得分/满分:40/100
+得分/满分:20/100
 结果类型:测试用例有失败
 结果描述:编译student.h61成功
 getDeaths=0
 test case 1 DeathRate=0 测试用例1通过!
 
 
-getPatients=2735
-getDeaths=2
-getCured=810
+getPatients=47443
+getDeaths=3
+getCured=26485
 test case 2 SpreadRate=0 测试用例2失败!
 
 
-getPatients=2736
-getDeaths=4
-getCured=811
+getPatients=47444
+getDeaths=5
+getCured=26486
 test case 3 ImmuEffect=1 setImmuRate=1 测试用例3失败!
 
 
-getDeaths=19776
-getPatients=33550
-getCured=20550
-getLatents=3980
-test case 4  ImmuEffect=0  测试用例4通过!
+getDeaths=20412
+getPatients=77878
+getCured=46970
+getLatents=6024
+test case 4  ImmuEffect=0  测试用例4失败!
 
 
-getDeaths=20118
-getPatients=34788
-getCured=20923
-getLatents=4530
+getDeaths=20442
+getPatients=78008
+getCured=47017
+getLatents=6102
 test case 5  default setting 测试用例5失败!
+
+============================================================
+批改日期：2021/05/26 20:20:02
+文件MD5=cb82dcea59e13b3ba00cd50e4358f79f
+
+学号:3019244334 
+批改日期:2021/05/26 20:20:02
+作业号:h62 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h62成功
+case 1 测试用例通过!
+case 2 测试用例通过!
+case 3 测试用例通过!
 
 ============================================================

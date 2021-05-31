@@ -1,44 +1,228 @@
-批改日期：2021/05/19 22:24:09
+批改日期：2021/05/31 21:30:20
+文件MD5=file unexist
+3000000001_王小白_h19.zip 文件不存在!
+============================================================
+批改日期：2021/05/31 21:31:15
 文件MD5=file unexist
 3000000001_王小白_h51.zip 文件不存在!
 ============================================================
-批改日期：2021/05/19 22:24:30
+批改日期：2021/05/31 21:31:57
 文件MD5=file unexist
 3000000001_王小白_h52.zip 文件不存在!
 ============================================================
-批改日期：2021/05/19 22:24:52
+批改日期：2021/05/31 21:32:36
 文件MD5=file unexist
 3000000001_王小白_h53.zip 文件不存在!
 ============================================================
-批改日期：2021/05/19 22:25:14
+批改日期：2021/05/31 21:33:40
 文件MD5=file unexist
 3000000001_王小白_h54.zip 文件不存在!
 ============================================================
-批改日期：2021/05/19 22:25:32
+批改日期：2021/05/31 21:34:15
 文件MD5=file unexist
 3000000001_王小白_h55.zip 文件不存在!
 ============================================================
-批改日期：2021/05/19 22:25:49
+批改日期：2021/05/31 21:35:18
 文件MD5=file unexist
 3000000001_王小白_h56.zip 文件不存在!
 ============================================================
-批改日期：2021/05/19 22:26:07
+批改日期：2021/05/31 21:36:17
 文件MD5=file unexist
 3000000001_王小白_h57.zip 文件不存在!
 ============================================================
-批改日期：2021/05/19 22:26:21
+批改日期：2021/05/31 21:37:01
 文件MD5=file unexist
 3000000001_王小白_h58.zip 文件不存在!
 ============================================================
-批改日期：2021/05/19 22:26:36
+批改日期：2021/05/31 21:37:54
 文件MD5=file unexist
 3000000001_王小白_h59.zip 文件不存在!
 ============================================================
-批改日期：2021/05/19 22:26:54
+批改日期：2021/05/31 21:38:38
 文件MD5=file unexist
 3000000001_王小白_h60.zip 文件不存在!
 ============================================================
-批改日期：2021/05/19 22:27:16
+批改日期：2021/05/31 21:39:44
 文件MD5=file unexist
 3000000001_王小白_h61.zip 文件不存在!
+============================================================
+批改日期：2021/05/25 00:24:46
+文件MD5=9d065b09fa133d09d761cdc1aa36dd0c
+
+学号:3000000001 
+批改日期:2021/05/25 00:24:49
+作业号:h62 
+得分/满分:0/100
+结果类型:file_un_exits
+结果描述:编译student.h62失败
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\FileUtil.java:12: 错误: 程序包org.apache.log4j不存在
+import org.apache.log4j.Logger;
+                       ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\FileUtil.java:14: 错误: 程序包cn.com.enorth.utility不存在
+import cn.com.enorth.utility.Beans;
+                            ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\FileUtil.java:17: 错误: 找不到符号
+	private static Logger logger = Logger.getLogger(FileUtil.class);
+	               ^
+  符号:   类 Logger
+  位置: 类 com.huawei.classroom.student.h62.FileUtil
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\ftpd\FTPDConnection.java:20: 错误: 程序包org.jdom不存在
+import org.jdom.JDOMException;
+               ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\UserVo.java:2: 错误: 程序包cn.com.enorth.utility.db.impl.dao.abstract_vo不存在
+import cn.com.enorth.utility.db.impl.dao.abstract_vo.AbstractTableVo;
+                                                    ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\UserVo.java:3: 错误: 程序包cn.com.enorth.utility不存在
+import cn.com.enorth.utility.Beans;
+                            ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\UserVo.java:5: 错误: 程序包cn.com.enorth.utility.db.impl.dao.enums不存在
+import cn.com.enorth.utility.db.impl.dao.enums.EnumSqlOperator;
+                                              ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\UserVo.java:6: 错误: 程序包cn.com.enorth.utility.db.impl.dao.abstract_vo不存在
+import cn.com.enorth.utility.db.impl.dao.abstract_vo.AbstractSearchVo;
+                                                    ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\ftpd\FTPDFile.java:17: 错误: 程序包org.jdom不存在
+import org.jdom.JDOMException;
+               ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\FTPDConst.java:6: 错误: 程序包cn.com.enorth.utility.img不存在
+import cn.com.enorth.utility.img.EnumImagePostion;
+                                ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyStrUtil.java:18: 错误: 程序包org.apache.log4j不存在
+import org.apache.log4j.Logger;
+                       ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyStrUtil.java:19: 错误: 程序包org.apache.oro.text.regex不存在
+import org.apache.oro.text.regex.MalformedPatternException;
+                                ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyStrUtil.java:21: 错误: 程序包cn.com.enorth.utility不存在
+import cn.com.enorth.utility.Beans;
+                            ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyStrUtil.java:22: 错误: 程序包cn.com.enorth.utility.app.ai.pinyin.impl不存在
+import cn.com.enorth.utility.app.ai.pinyin.impl.PinyinHelper;
+                                               ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyStrUtil.java:23: 错误: 程序包cn.com.enorth.utility.str不存在
+import cn.com.enorth.utility.str.IStrUtil;
+                                ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\FileUtil.java:17: 错误: 找不到符号
+	private static Logger logger = Logger.getLogger(FileUtil.class);
+	                               ^
+  符号:   变量 Logger
+  位置: 类 com.huawei.classroom.student.h62.FileUtil
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\FileUtil.java:76: 错误: 程序包Beans不存在
+		String fileMd5=Beans.md5.getMD5(file);
+		                    ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\FileUtil.java:174: 错误: 程序包Beans不存在
+			String hex = Beans.strUtil.bytesToHexStr(head);
+			                  ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyStrUtil.java:493: 错误: 程序包Beans不存在
+			stackTrace = Beans.convertUtil.exceptionToString(e);
+			                  ^
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:43: 错误: 找不到符号
+		MyDaemon deamon = new MyDaemon(config);
+		^
+  符号:   类 MyDaemon
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:43: 错误: 找不到符号
+		MyDaemon deamon = new MyDaemon(config);
+		                      ^
+  符号:   类 MyDaemon
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:46: 错误: 找不到符号
+		MyHost host = new MyHost();
+		^
+  符号:   类 MyHost
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:46: 错误: 找不到符号
+		MyHost host = new MyHost();
+		                  ^
+  符号:   类 MyHost
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:52: 错误: 找不到符号
+		MyRemoteFile file1 =   new MyRemoteFile(host, "/"); 
+		^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:52: 错误: 找不到符号
+		MyRemoteFile file1 =   new MyRemoteFile(host, "/"); 
+		                           ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:53: 错误: 找不到符号
+		t.setPredicate((MyRemoteFile h) -> {
+		                ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:56: 错误: 找不到符号
+				MyRemoteFile[] children = h.dirByNameAsc();
+				^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:71: 错误: 找不到符号
+		MyRemoteFile file2 =  new MyRemoteFile(host, "/a/test2.txt");
+		^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:71: 错误: 找不到符号
+		MyRemoteFile file2 =  new MyRemoteFile(host, "/a/test2.txt");
+		                          ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:72: 错误: 找不到符号
+		t.setPredicate((MyRemoteFile h) -> {
+		                ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:77: 错误: 找不到符号
+				MyRemoteFile file3 = new MyRemoteFile(host, "/a/test2.txt");
+				^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:77: 错误: 找不到符号
+				MyRemoteFile file3 = new MyRemoteFile(host, "/a/test2.txt");
+				                         ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:90: 错误: 找不到符号
+		MyRemoteFile file4 = new MyRemoteFile(host, "/a/test1.txt");
+		^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:90: 错误: 找不到符号
+		MyRemoteFile file4 = new MyRemoteFile(host, "/a/test1.txt");
+		                         ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:92: 错误: 找不到符号
+		MyRemoteFile file5 = new MyRemoteFile(host, "/a/");
+		^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:92: 错误: 找不到符号
+		MyRemoteFile file5 = new MyRemoteFile(host, "/a/");
+		                         ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:93: 错误: 找不到符号
+		t.setPredicate((MyRemoteFile h) -> {
+		                ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:95: 错误: 找不到符号
+				MyRemoteFile[] children = h.dirByNameAsc();
+				^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:96: 错误: 找不到符号
+				MyRemoteFile c0 = children[0];
+				^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3000000001\com\huawei\classroom\student\h62\MyScoreh62.java:97: 错误: 找不到符号
+				MyRemoteFile c1 = children[1];
+				^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+注: 某些输入文件使用了未经检查或不安全的操作。
+注: 有关详细信息, 请使用 -Xlint:unchecked 重新编译。
+student.h62 目录下没有编译好的文件！
+
 ============================================================

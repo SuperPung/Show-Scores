@@ -42,9 +42,13 @@ public class Score {
             String resultType = null;
             String resultDetail = null;
 
-            for(int i = 0; i < homework.length() - 38; i++){
+            for(int i = 0; i < homework.length() - 4; i++){
                 String subStr = homework.substring(i, i + 4);
                 switch (subStr) {
+                    case ("xist"):
+                        hwNum = homework.substring(i + 21, i + 24);
+                        stuId = homework.substring(i + 6, i + 16);
+                        break;
                     case ("批改日期"):
                         checkDate = homework.substring(i + 5, i + 24);
                         break;

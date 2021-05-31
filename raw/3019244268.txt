@@ -1,54 +1,152 @@
-批改日期：2021/05/18 22:13:38
-文件MD5=e3809ff25cba10993148369ed789a82f
-D:\java_test\STU_SOURCE_HOME\h51\3019244268\com\huawei\classroom\student\HongBao.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h51\3019244268\com\huawei\classroom\student\HongBao.java (系统找不到指定的路径。)
+批改日期：2021/05/31 21:30:44
+文件MD5=file unexist
+3019244268_杨诗宇_h19.zip 文件不存在!
 ============================================================
-批改日期：2021/05/17 20:21:11
-文件MD5=a222b5ed04fdad3df3e81c36cc1dd954
-D:\java_test\STU_SOURCE_HOME\h52\3019244268\com\huawei\classroom\student\NumDecompose.class (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h52\3019244268\com\huawei\classroom\student\NumDecompose.class (系统找不到指定的路径。)
+批改日期：2021/05/26 23:36:37
+文件MD5=788c03985cb574cac5b0f0c2eda2ccf4
+
+学号:3019244268 
+批改日期:2021/05/26 23:36:37
+作业号:h51 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h51成功
+case 1 测试用例通过!
+
 ============================================================
-批改日期：2021/05/18 16:01:33
-文件MD5=b395c960991b2f5afdf426f568cd30f0
-D:\java_test\STU_SOURCE_HOME\h53\3019244268\com\huawei\classroom\student\RabbitCount.class (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h53\3019244268\com\huawei\classroom\student\RabbitCount.class (系统找不到指定的路径。)
+批改日期：2021/05/26 23:37:09
+文件MD5=2fccf8f4ce4509af2cca2fc3719383c3
+
+学号:3019244268 
+批改日期:2021/05/26 23:37:09
+作业号:h52 
+得分/满分:50/100
+结果类型:测试用例有失败
+结果描述:编译student.h52成功
+case 1 测试用例失败!
+case 2 测试用例通过!
+
 ============================================================
-批改日期：2021/05/17 20:26:57
-文件MD5=4f2b7b4df8877c91d44ed65790f40bd7
-D:\java_test\STU_SOURCE_HOME\h54\3019244268\com\huawei\classroom\student\PasswordChecker.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h54\3019244268\com\huawei\classroom\student\PasswordChecker.java (系统找不到指定的路径。)
+批改日期：2021/05/26 23:37:29
+文件MD5=13b1ffe46dc2f16cbb77c16eba4f58ac
+
+学号:3019244268 
+批改日期:2021/05/26 23:37:29
+作业号:h53 
+得分/满分:0/100
+结果类型:file_un_exits
+结果描述:编译student.h53失败
+D:\java_test\STU_COMPILE_HOME\h53\3019244268\com\huawei\classroom\student\h53\RabbitCount.java:11: 错误: 程序包cn.com.enorth.utility不存在
+import cn.com.enorth.utility.Beans;
+                            ^
+student.h53 目录下没有编译好的文件！
+
 ============================================================
-批改日期：2021/05/17 20:29:19
-文件MD5=b02bb03c8da9346864c03ef8ca589e58
-D:\java_test\STU_SOURCE_HOME\h55\3019244268\com\huawei\classroom\student\dufu.txt (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h55\3019244268\com\huawei\classroom\student\dufu.txt (系统找不到指定的路径。)
+批改日期：2021/05/26 23:38:01
+文件MD5=9475c0dc70fac129a0d636e0865c1cd3
+
+学号:3019244268 
+批改日期:2021/05/26 23:38:01
+作业号:h54 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h54成功
+case 1 测试用例通过!
+case 2 测试用例通过!
+case 3 测试用例通过!
+
 ============================================================
-批改日期：2021/05/17 20:31:42
-文件MD5=79355c0d5e22031d74336a77c2de2893
-D:\java_test\STU_SOURCE_HOME\h56\3019244268\com\huawei\classroom\student\FileTool.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h56\3019244268\com\huawei\classroom\student\FileTool.java (系统找不到指定的路径。)
+批改日期：2021/05/26 23:38:21
+文件MD5=7b63e27f85be72ef5b08cdf02d90b9e0
+
+学号:3019244268 
+批改日期:2021/05/26 23:38:21
+作业号:h55 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h55成功
+case 1 测试用例通过!
+
 ============================================================
-批改日期：2021/05/17 20:35:53
-文件MD5=c6c30ea881be0e55e21f69a6547af2d6
-D:\java_test\STU_SOURCE_HOME\h57\3019244268\com\huawei\classroom\student\FileTool.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h57\3019244268\com\huawei\classroom\student\FileTool.java (系统找不到指定的路径。)
+批改日期：2021/05/26 23:38:44
+文件MD5=a179550bd8d5f1264a9a4b3a8cd9b9cc
+
+学号:3019244268 
+批改日期:2021/05/26 23:38:44
+作业号:h56 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h56成功
+case 1 测试用例通过!
+
 ============================================================
-批改日期：2021/05/17 20:36:35
-文件MD5=6e26e669dcd1de6071ecfc661ec5c989
-D:\java_test\STU_SOURCE_HOME\h58\3019244268\com\huawei\classroom\student\Person.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h58\3019244268\com\huawei\classroom\student\Person.java (系统找不到指定的路径。)
+批改日期：2021/05/26 23:39:19
+文件MD5=77d2ab2ccf36bf3ad386818760a22e63
+
+学号:3019244268 
+批改日期:2021/05/26 23:39:19
+作业号:h57 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h57成功
+case 1 测试用例通过!
+
 ============================================================
-批改日期：2021/05/17 20:37:11
-文件MD5=d7e40ba46d0aae2ed0c940f4022f6761
-D:\java_test\STU_SOURCE_HOME\h59\3019244268\com\huawei\classroom\student\reactions.txt (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h59\3019244268\com\huawei\classroom\student\reactions.txt (系统找不到指定的路径。)
+批改日期：2021/05/26 23:39:41
+文件MD5=948597c3c7dddf1b5902d4312d2dc73d
+
+学号:3019244268 
+批改日期:2021/05/26 23:39:41
+作业号:h58 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h58成功
+case 1 测试用例通过!
+
 ============================================================
-批改日期：2021/05/18 22:18:18
-文件MD5=bc5448774d5efd4cbc0c216cb8c51fd1
-D:\java_test\STU_SOURCE_HOME\h60\3019244268\com\huawei\classroom\student\ChatClient.java (系统找不到指定的路径。)
-java.io.FileNotFoundException: D:\java_test\STU_SOURCE_HOME\h60\3019244268\com\huawei\classroom\student\ChatClient.java (系统找不到指定的路径。)
+批改日期：2021/05/26 23:40:02
+文件MD5=8461e1a983d9f0ff6fe05e3d1b52bc9a
+
+学号:3019244268 
+批改日期:2021/05/26 23:40:02
+作业号:h59 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h59成功
+case 1 测试用例通过!
+
 ============================================================
-批改日期：2021/05/19 22:27:28
+批改日期：2021/05/26 23:40:30
+文件MD5=bd51de819abd3b7618ce8f6d8a111b3c
+
+学号:3019244268 
+批改日期:2021/05/26 23:40:30
+作业号:h60 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h60成功
+程序执行超时，最长时间限制：8000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 测试用例1通过!
+case2 i=:0sa=[null]	sb=[0]	sc=[0]
+
+case2 i=:1sa=[null]	sb=[1]	sc=[1]
+
+case2 i=:2sa=[null]	sb=[2]	sc=[2]
+
+case2 i=:3sa=[null]	sb=[3]	sc=[3]
+
+case2 i=:4sa=[null]	sb=[4]	sc=[4]
+
+case 2 测试用例2通过!
+case3: sa=[null]	sb=[null]	sc=[a]
+case 3 测试用例3通过!
+
+============================================================
+批改日期：2021/05/31 21:41:43
 文件MD5=file unexist
 3019244268_杨诗宇_h61.zip 文件不存在!
+============================================================
+批改日期：2021/05/31 21:42:39
+文件MD5=file unexist
+3019244268_杨诗宇_h62.zip 文件不存在!
 ============================================================
