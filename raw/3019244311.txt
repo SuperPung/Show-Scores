@@ -1,4 +1,4 @@
-批改日期：2021/05/31 21:30:44
+批改日期：2021/06/01 15:33:46
 文件MD5=file unexist
 3019244311_钱成志_h19.zip 文件不存在!
 ============================================================
@@ -89,38 +89,39 @@ case 1 测试用例通过!
 case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/05/31 21:37:26
-文件MD5=2730c12211a1b4a84d3fb1006e43394c
+批改日期：2021/06/01 15:40:07
+文件MD5=3ff414c1fc5b7c1bc8dce3ad62687ff3
 
 学号:3019244311 
-批改日期:2021/05/31 21:37:26
+批改日期:2021/06/01 15:40:07
 作业号:h58 
-得分/满分:0/100
-结果类型:run_error
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h58成功
-null
-java.lang.NullPointerException
-	at com.huawei.classroom.student.h58.MyScoreh58.lambda$doEval$0(MyScoreh58.java:37)
-	at com.huawei.classroom.teacher.myexam.CTestCase.test(CTestCase.java:84)
-	at com.huawei.classroom.student.h58.MyScoreh58.doEval(MyScoreh58.java:43)
-	at com.huawei.classroom.teacher.myexam.AbstractMyScore.eval(AbstractMyScore.java:43)
-	at com.huawei.classroom.teacher.myexam.MyScoreApplication.main(MyScoreApplication.java:45)
-
+case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/05/31 21:38:10
-文件MD5=d41d8cd98f00b204e9800998ecf8427e
-Archive file can't be opened with none of the registered codecs
+批改日期：2021/06/01 15:41:15
+文件MD5=5d3b594a8a6faffeeccde8a6c6b74e8b
+
+学号:3019244311 
+批改日期:2021/06/01 15:41:15
+作业号:h59 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h59成功
+case 1 测试用例通过!
+
 ============================================================
-批改日期：2021/05/31 21:39:18
+批改日期：2021/06/01 15:43:09
 文件MD5=file unexist
 3019244311_钱成志_h60.zip 文件不存在!
 ============================================================
-批改日期：2021/05/31 21:41:51
+批改日期：2021/06/01 15:44:53
 文件MD5=file unexist
 3019244311_钱成志_h61.zip 文件不存在!
 ============================================================
-批改日期：2021/05/31 21:42:39
+批改日期：2021/06/01 15:46:45
 文件MD5=file unexist
 3019244311_钱成志_h62.zip 文件不存在!
 ============================================================

@@ -46,8 +46,10 @@ public class Score {
                 String subStr = homework.substring(i, i + 4);
                 switch (subStr) {
                     case ("xist"):
-                        hwNum = homework.substring(i + 21, i + 24);
                         stuId = homework.substring(i + 6, i + 16);
+                        break;
+                    case ("文件不存"):
+                        hwNum = homework.substring(i - 8, i - 5);
                         break;
                     case ("批改日期"):
                         checkDate = homework.substring(i + 5, i + 24);
