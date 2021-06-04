@@ -146,20 +146,58 @@ case 1 测试用例通过!
 case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/06/01 15:43:13
-文件MD5=file unexist
-3019244342_郑睿恺_h60.zip 文件不存在!
-============================================================
-批改日期：2021/05/29 09:29:04
-文件MD5=58c916537855497e522d1e2b005788d5
+批改日期：2021/06/03 17:12:40
+文件MD5=6705423e822ef74179dd5c8cfb0bd403
 
 学号:3019244342 
-批改日期:2021/05/29 09:29:04
+批改日期:2021/06/03 17:12:41
+作业号:h60 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h60成功
+程序执行超时，最长时间限制：15000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 test case 1 pass !
+case 2 test case 2 pass !
+case 3 test case 3 pass !
+
+============================================================
+批改日期：2021/06/03 20:46:05
+文件MD5=4e765986849eb1d6e0999234173d0705
+
+学号:3019244342 
+批改日期:2021/06/03 20:46:05
 作业号:h61 
-得分/满分:0/100
-结果类型:run_error
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h61成功
-程序执行超时，最长时间限制：8000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+getDeaths=0
+test case 1 DeathRate=0 test case 1 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 test case 2 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
+
+
+getDeaths=17338
+getPatients=35890
+getCured=18530
+getLatents=4402
+test case 4  ImmuEffect=0  test case 4 pass !
+
+
+getDeaths=22
+getPatients=259
+getCured=587
+getLatents=251
+test case 5  default setting test case 5 pass !
 
 ============================================================
 批改日期：2021/06/01 15:46:51

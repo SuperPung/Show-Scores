@@ -1,52 +1,205 @@
-批改日期：2021/06/01 15:32:54
-文件MD5=file unexist
-3017218098_郎潜_h19.zip 文件不存在!
+批改日期：2021/06/03 23:40:05
+文件MD5=ddd22587611c77939cad210ca6e9a9f7
+
+学号:3017218098 
+批改日期:2021/06/03 23:40:05
+作业号:h19 
+程序号：1 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q01成功
+wangwang test case  pass !
+
+程序号：2 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q02成功
+wangwang test case  pass !
+
+程序号：3 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q03成功
+getMin test case  pass !
+
+程序号：4 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q04成功
+removeDulpicatedChar test case  pass !
+
+程序号：5 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q05成功
+sort test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:34:23
-文件MD5=file unexist
-3017218098_郎潜_h51.zip 文件不存在!
+批改日期：2021/06/03 22:35:43
+文件MD5=2540c5af7c1e11352045dac33b2ac9f1
+
+学号:3017218098 
+批改日期:2021/06/03 22:35:43
+作业号:h51 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h51成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:35:01
-文件MD5=file unexist
-3017218098_郎潜_h52.zip 文件不存在!
+批改日期：2021/06/03 22:36:24
+文件MD5=dae0f8d5412a65e1afc3bae02463acad
+
+学号:3017218098 
+批改日期:2021/06/03 22:36:24
+作业号:h52 
+得分/满分:50/100
+结果类型:run_error
+结果描述:编译student.h52成功
+case 1 test case  pass !
+无法对 <= 1 的数或质数进行质因数分解
+java.lang.RuntimeException: 无法对 <= 1 的数或质数进行质因数分解
+	at com.huawei.classroom.student.h52.NumDecompose.decompose(NumDecompose.java:14)
+	at com.huawei.classroom.student.h52.MyScoreh52.lambda$doEval$1(MyScoreh52.java:49)
+	at com.huawei.classroom.teacher.myexam.CTestCase.test(CTestCase.java:84)
+	at com.huawei.classroom.student.h52.MyScoreh52.doEval(MyScoreh52.java:54)
+	at com.huawei.classroom.teacher.myexam.AbstractMyScore.eval(AbstractMyScore.java:45)
+	at com.huawei.classroom.teacher.myexam.MyScoreApplication.main(MyScoreApplication.java:47)
+
+
 ============================================================
-批改日期：2021/06/01 15:35:38
-文件MD5=file unexist
-3017218098_郎潜_h53.zip 文件不存在!
+批改日期：2021/06/03 22:37:24
+文件MD5=e9d758a27303f17dedb47b3b4e0abe4d
+
+学号:3017218098 
+批改日期:2021/06/03 22:37:24
+作业号:h53 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h53成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:36:40
-文件MD5=file unexist
-3017218098_郎潜_h54.zip 文件不存在!
+批改日期：2021/06/03 22:38:22
+文件MD5=11ba05cb598d8ddbf03a222c85c3e486
+
+学号:3017218098 
+批改日期:2021/06/03 22:38:22
+作业号:h54 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h54成功
+case 1 test case  pass !
+case 2 test case  pass !
+case 3 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:37:08
-文件MD5=file unexist
-3017218098_郎潜_h55.zip 文件不存在!
+批改日期：2021/06/03 22:39:06
+文件MD5=1f6deb7b385a1d7c674eac7bc95681ab
+
+学号:3017218098 
+批改日期:2021/06/03 22:39:06
+作业号:h55 
+得分/满分:0/100
+结果类型:run_error
+结果描述:编译student.h55成功
+toIndex = 10
+java.lang.IndexOutOfBoundsException: toIndex = 10
+	at java.util.ArrayList.subListRangeCheck(Unknown Source)
+	at java.util.ArrayList.subList(Unknown Source)
+	at com.huawei.classroom.student.h55.PoetryAnalysis.analysis(PoetryAnalysis.java:45)
+	at com.huawei.classroom.student.h55.MyScoreh55.lambda$doEval$0(MyScoreh55.java:34)
+	at com.huawei.classroom.teacher.myexam.CTestCase.test(CTestCase.java:84)
+	at com.huawei.classroom.student.h55.MyScoreh55.doEval(MyScoreh55.java:37)
+	at com.huawei.classroom.teacher.myexam.AbstractMyScore.eval(AbstractMyScore.java:45)
+	at com.huawei.classroom.teacher.myexam.MyScoreApplication.main(MyScoreApplication.java:47)
+
+
 ============================================================
-批改日期：2021/06/01 15:37:35
-文件MD5=file unexist
-3017218098_郎潜_h56.zip 文件不存在!
+批改日期：2021/06/03 22:40:14
+文件MD5=cf5f48fc7c8062c9eb4d2c6ac37f0bba
+
+学号:3017218098 
+批改日期:2021/06/03 22:40:14
+作业号:h56 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h56成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:38:39
-文件MD5=file unexist
-3017218098_郎潜_h57.zip 文件不存在!
+批改日期：2021/06/03 22:41:01
+文件MD5=de9427f67035ccfe81f7e4172e2a4e44
+
+学号:3017218098 
+批改日期:2021/06/03 22:41:01
+作业号:h57 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h57成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:39:22
-文件MD5=file unexist
-3017218098_郎潜_h58.zip 文件不存在!
+批改日期：2021/06/03 22:41:55
+文件MD5=3cd4255af21fc3cc4688fc5c4637bc7e
+
+学号:3017218098 
+批改日期:2021/06/03 22:41:55
+作业号:h58 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h58成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:40:42
-文件MD5=file unexist
-3017218098_郎潜_h59.zip 文件不存在!
+批改日期：2021/06/03 23:44:16
+文件MD5=5e712789de5bf563dd700109358138f8
+
+学号:3017218098 
+批改日期:2021/06/03 23:44:16
+作业号:h59 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h59成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:41:43
-文件MD5=file unexist
-3017218098_郎潜_h60.zip 文件不存在!
+批改日期：2021/06/03 23:44:45
+文件MD5=a06e52c2e776aa7817d7da78d79200a4
+
+学号:3017218098 
+批改日期:2021/06/03 23:44:45
+作业号:h60 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h60成功
+程序执行超时，最长时间限制：15000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 test case 1 pass !
+case 2 test case 2 pass !
+case 3 test case 3 pass !
+
 ============================================================
-批改日期：2021/06/01 15:43:33
-文件MD5=file unexist
-3017218098_郎潜_h61.zip 文件不存在!
+批改日期：2021/06/03 22:47:47
+文件MD5=e92ab966804f4ba1497785d3a16e4f4b
+
+学号:3017218098 
+批改日期:2021/06/03 22:47:47
+作业号:h61 
+得分/满分:0/100
+结果类型:run_error
+结果描述:编译student.h61成功
+程序执行超时，最长时间限制：15000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+
 ============================================================
-批改日期：2021/06/01 15:45:59
-文件MD5=file unexist
-3017218098_郎潜_h62.zip 文件不存在!
+批改日期：2021/06/03 23:48:26
+文件MD5=cffeb1e44edf394f5ca8bf5d1685f301
+
+学号:3017218098 
+批改日期:2021/06/03 23:48:26
+作业号:h62 
+得分/满分:0/100
+结果类型:run_error
+结果描述:编译student.h62成功
+程序执行超时，最长时间限制：15000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+
 ============================================================

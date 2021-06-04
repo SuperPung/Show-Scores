@@ -1,52 +1,274 @@
-批改日期：2021/06/01 15:33:09
+批改日期：2021/06/04 12:05:39
 文件MD5=file unexist
 3019244082_扎西美朗_h19.zip 文件不存在!
 ============================================================
-批改日期：2021/06/01 15:34:28
-文件MD5=file unexist
-3019244082_扎西美朗_h51.zip 文件不存在!
+批改日期：2021/06/03 23:41:32
+文件MD5=81dfeca802c340386adf47c76935c616
+
+学号:3019244082 
+批改日期:2021/06/03 23:41:32
+作业号:h51 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h51成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:35:04
-文件MD5=file unexist
-3019244082_扎西美朗_h52.zip 文件不存在!
+批改日期：2021/06/03 23:41:58
+文件MD5=8fe509a73ac7c72f66afc06b0899f9d5
+
+学号:3019244082 
+批改日期:2021/06/03 23:41:58
+作业号:h52 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h52成功
+case 1 test case  pass !
+case 2 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:35:53
-文件MD5=file unexist
-3019244082_扎西美朗_h53.zip 文件不存在!
+批改日期：2021/06/03 23:42:23
+文件MD5=1c6b48c4199410f32124a73b7e4f4a0b
+
+学号:3019244082 
+批改日期:2021/06/03 23:42:23
+作业号:h53 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h53成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:36:43
-文件MD5=file unexist
-3019244082_扎西美朗_h54.zip 文件不存在!
+批改日期：2021/06/04 12:07:27
+文件MD5=da2f4c8045a68bcdbfe455a794238b5c
+
+学号:3019244082 
+批改日期:2021/06/04 12:07:27
+作业号:h54 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h54成功
+case 1 test case  pass !
+case 2 test case  pass !
+case 3 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:37:08
-文件MD5=file unexist
-3019244082_扎西美朗_h55.zip 文件不存在!
+批改日期：2021/06/04 12:07:46
+文件MD5=560940311615c409fc2e8f96bd68eceb
+
+学号:3019244082 
+批改日期:2021/06/04 12:07:46
+作业号:h55 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h55成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:37:38
-文件MD5=file unexist
-3019244082_扎西美朗_h56.zip 文件不存在!
+批改日期：2021/06/04 12:08:17
+文件MD5=f736a0ea757c3a37df781495c8a0b164
+
+学号:3019244082 
+批改日期:2021/06/04 12:08:17
+作业号:h56 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h56成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:38:39
-文件MD5=file unexist
-3019244082_扎西美朗_h57.zip 文件不存在!
+批改日期：2021/06/04 12:08:50
+文件MD5=7d04fea57aa2151b7d02c028bd068de8
+
+学号:3019244082 
+批改日期:2021/06/04 12:08:50
+作业号:h57 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h57成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:39:26
-文件MD5=file unexist
-3019244082_扎西美朗_h58.zip 文件不存在!
+批改日期：2021/06/04 12:09:19
+文件MD5=c8d119aa1d7b63aa7b7b4ff074c3bcd0
+
+学号:3019244082 
+批改日期:2021/06/04 12:09:19
+作业号:h58 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h58成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:40:46
-文件MD5=file unexist
-3019244082_扎西美朗_h59.zip 文件不存在!
+批改日期：2021/06/04 12:10:01
+文件MD5=5ed59e0d7599c6848dcb7b5acbe88959
+
+学号:3019244082 
+批改日期:2021/06/04 12:10:01
+作业号:h59 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h59成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:41:44
-文件MD5=file unexist
-3019244082_扎西美朗_h60.zip 文件不存在!
+批改日期：2021/06/04 12:10:33
+文件MD5=636fdb2e7d55e4deaf3b55357f607179
+
+学号:3019244082 
+批改日期:2021/06/04 12:10:33
+作业号:h60 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h60成功
+case 1 test case 1 pass !
+case 2 test case 2 pass !
+case 3 test case 3 pass !
+
 ============================================================
-批改日期：2021/06/01 15:43:33
-文件MD5=file unexist
-3019244082_扎西美朗_h61.zip 文件不存在!
+批改日期：2021/06/04 12:12:03
+文件MD5=c0f8a08cac62433d90fe7d982ca303be
+
+学号:3019244082 
+批改日期:2021/06/04 12:12:03
+作业号:h61 
+得分/满分:0/100
+结果类型:run_error
+结果描述:编译student.h61成功
+null
+java.lang.NullPointerException
+	at com.huawei.classroom.student.h61.Simulate.sim(Simulate.java:19)
+	at com.huawei.classroom.student.h61.MyScoreh61.doEval(MyScoreh61.java:41)
+	at com.huawei.classroom.teacher.myexam.AbstractMyScore.eval(AbstractMyScore.java:45)
+	at com.huawei.classroom.teacher.myexam.MyScoreApplication.main(MyScoreApplication.java:47)
+
+
 ============================================================
-批改日期：2021/06/01 15:45:59
-文件MD5=file unexist
-3019244082_扎西美朗_h62.zip 文件不存在!
+批改日期：2021/06/04 12:12:36
+文件MD5=23cee22fa5c3eae7f1e81867207b6781
+
+学号:3019244082 
+批改日期:2021/06/04 12:12:36
+作业号:h62 
+得分/满分:0/100
+结果类型:file_un_exits
+结果描述:编译student.h62失败
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:44: 错误: 找不到符号
+			MyDeamonConfigVo config = new MyDeamonConfigVo();
+			^
+  符号:   类 MyDeamonConfigVo
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:44: 错误: 找不到符号
+			MyDeamonConfigVo config = new MyDeamonConfigVo();
+			                              ^
+  符号:   类 MyDeamonConfigVo
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:48: 错误: 找不到符号
+			MyDaemon deamon = new MyDaemon(config);
+			^
+  符号:   类 MyDaemon
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:48: 错误: 找不到符号
+			MyDaemon deamon = new MyDaemon(config);
+			                      ^
+  符号:   类 MyDaemon
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:51: 错误: 找不到符号
+			MyHost host = new MyHost();
+			^
+  符号:   类 MyHost
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:51: 错误: 找不到符号
+			MyHost host = new MyHost();
+			                  ^
+  符号:   类 MyHost
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:57: 错误: 找不到符号
+			MyRemoteFile file1 = new MyRemoteFile(host, "/");
+			^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:57: 错误: 找不到符号
+			MyRemoteFile file1 = new MyRemoteFile(host, "/");
+			                         ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:58: 错误: 找不到符号
+			t.setPredicate((MyRemoteFile h) -> {
+			                ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:61: 错误: 找不到符号
+					MyRemoteFile[] children = h.dirByNameAsc();
+					^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:77: 错误: 找不到符号
+			MyRemoteFile file2 = new MyRemoteFile(host, "/a/test2.txt");
+			^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:77: 错误: 找不到符号
+			MyRemoteFile file2 = new MyRemoteFile(host, "/a/test2.txt");
+			                         ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:78: 错误: 找不到符号
+			t.setPredicate((MyRemoteFile h) -> {
+			                ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:82: 错误: 找不到符号
+					MyRemoteFile file3 = new MyRemoteFile(host, "/a/test2.txt");
+					^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:82: 错误: 找不到符号
+					MyRemoteFile file3 = new MyRemoteFile(host, "/a/test2.txt");
+					                         ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:95: 错误: 找不到符号
+			MyRemoteFile file4 = new MyRemoteFile(host, "/a/test1.txt");
+			^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:95: 错误: 找不到符号
+			MyRemoteFile file4 = new MyRemoteFile(host, "/a/test1.txt");
+			                         ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:97: 错误: 找不到符号
+			MyRemoteFile file5 = new MyRemoteFile(host, "/a/");
+			^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:97: 错误: 找不到符号
+			MyRemoteFile file5 = new MyRemoteFile(host, "/a/");
+			                         ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:98: 错误: 找不到符号
+			t.setPredicate((MyRemoteFile h) -> {
+			                ^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:100: 错误: 找不到符号
+					MyRemoteFile[] children = h.dirByNameAsc();
+					^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:101: 错误: 找不到符号
+					MyRemoteFile c0 = children[0];
+					^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+D:\java_test\STU_COMPILE_HOME\h62\3019244082\com\huawei\classroom\student\h62\MyScoreh62.java:102: 错误: 找不到符号
+					MyRemoteFile c1 = children[1];
+					^
+  符号:   类 MyRemoteFile
+  位置: 类 com.huawei.classroom.student.h62.MyScoreh62
+student.h62 目录下没有编译好的文件！
+
 ============================================================

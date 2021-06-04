@@ -1,6 +1,39 @@
-批改日期：2021/06/01 15:33:46
-文件MD5=file unexist
-3019244361_王梓森_h19.zip 文件不存在!
+批改日期：2021/06/03 20:32:40
+文件MD5=f8030e0dc16aa8115a1d62c9a8dca520
+
+学号:3019244361 
+批改日期:2021/06/03 20:32:40
+作业号:h19 
+程序号：1 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q01成功
+wangwang test case  pass !
+
+程序号：2 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q02成功
+wangwang test case  pass !
+
+程序号：3 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q03成功
+getMin test case  pass !
+
+程序号：4 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q04成功
+removeDulpicatedChar test case  pass !
+
+程序号：5 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q05成功
+sort test case  pass !
+
 ============================================================
 批改日期：2021/05/30 22:27:31
 文件MD5=b47380cbd8dcf291c8370ffeefb208ab
@@ -138,16 +171,43 @@ case3: sa=[null]	sb=[null]	sc=[a]
 case 3 测试用例3通过!
 
 ============================================================
-批改日期：2021/05/30 22:33:14
-文件MD5=243c78d230f3f9e8d8ed590f62edd31b
+批改日期：2021/06/03 20:46:23
+文件MD5=a5913670aec8d594b4875fe65a9414dc
 
 学号:3019244361 
-批改日期:2021/05/30 22:33:14
+批改日期:2021/06/03 20:46:23
 作业号:h61 
-得分/满分:0/100
-结果类型:run_error
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h61成功
-程序执行超时，最长时间限制：8000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+getDeaths=0
+test case 1 DeathRate=0 test case 1 pass !
+
+
+getPatients=0
+getDeaths=1
+getCured=3
+test case 2 SpreadRate=0 test case 2 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
+
+
+getDeaths=16286
+getPatients=36675
+getCured=17165
+getLatents=4924
+test case 4  ImmuEffect=0  test case 4 pass !
+
+
+getDeaths=43
+getPatients=457
+getCured=573
+getLatents=383
+test case 5  default setting test case 5 pass !
 
 ============================================================
 批改日期：2021/05/30 22:34:03

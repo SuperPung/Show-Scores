@@ -1,4 +1,4 @@
-批改日期：2021/06/01 15:33:22
+批改日期：2021/06/04 12:05:56
 文件MD5=file unexist
 3019244170_戴润洋_h19.zip 文件不存在!
 ============================================================
@@ -53,35 +53,117 @@ case 2 测试用例通过!
 case 3 测试用例通过!
 
 ============================================================
-批改日期：2021/06/01 15:37:12
-文件MD5=file unexist
-3019244170_戴润洋_h55.zip 文件不存在!
+批改日期：2021/06/03 16:57:35
+文件MD5=b52e822f0bfcaed94e5dfc505502705e
+
+学号:3019244170 
+批改日期:2021/06/03 16:57:35
+作业号:h55 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h55成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:37:47
-文件MD5=file unexist
-3019244170_戴润洋_h56.zip 文件不存在!
+批改日期：2021/06/03 20:36:27
+文件MD5=3c3e663700c612782539c5e7ae9f572c
+
+学号:3019244170 
+批改日期:2021/06/03 20:36:27
+作业号:h56 
+得分/满分:0/100
+结果类型:测试用例有失败
+结果描述:编译student.h56成功
+case 1 test case  fail !
+
 ============================================================
-批改日期：2021/06/01 15:38:48
-文件MD5=file unexist
-3019244170_戴润洋_h57.zip 文件不存在!
+批改日期：2021/06/03 20:37:00
+文件MD5=b68da1be2f5d83a5b4d4a042711ce523
+
+学号:3019244170 
+批改日期:2021/06/03 20:37:00
+作业号:h57 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h57成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:39:43
-文件MD5=file unexist
-3019244170_戴润洋_h58.zip 文件不存在!
+批改日期：2021/06/03 22:42:09
+文件MD5=0f3e4c9e488990f97249da90e1980752
+
+学号:3019244170 
+批改日期:2021/06/03 22:42:09
+作业号:h58 
+得分/满分:0/100
+结果类型:run_error
+结果描述:编译student.h58成功
+null
+java.lang.NullPointerException
+	at com.huawei.classroom.student.h58.MyScoreh58.lambda$doEval$0(MyScoreh58.java:37)
+	at com.huawei.classroom.teacher.myexam.CTestCase.test(CTestCase.java:84)
+	at com.huawei.classroom.student.h58.MyScoreh58.doEval(MyScoreh58.java:43)
+	at com.huawei.classroom.teacher.myexam.AbstractMyScore.eval(AbstractMyScore.java:45)
+	at com.huawei.classroom.teacher.myexam.MyScoreApplication.main(MyScoreApplication.java:47)
+
+
 ============================================================
-批改日期：2021/06/01 15:40:56
-文件MD5=file unexist
-3019244170_戴润洋_h59.zip 文件不存在!
+批改日期：2021/06/03 22:43:08
+文件MD5=b8fa955cf49272a793c27e1fe5ad9f39
+
+学号:3019244170 
+批改日期:2021/06/03 22:43:08
+作业号:h59 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h59成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:42:09
-文件MD5=file unexist
-3019244170_戴润洋_h60.zip 文件不存在!
+批改日期：2021/06/03 22:45:11
+文件MD5=d6d4e1de60ec6b0a6f8434f9ae596319
+
+学号:3019244170 
+批改日期:2021/06/03 22:45:11
+作业号:h60 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h60成功
+case 1 test case 1 pass !
+case 2 test case 2 pass !
+case 3 test case 3 pass !
+
 ============================================================
-批改日期：2021/06/01 15:43:56
-文件MD5=file unexist
-3019244170_戴润洋_h61.zip 文件不存在!
+批改日期：2021/06/03 23:47:00
+文件MD5=dadc9d7a50f223b0cb6ce4dcc7260fe1
+
+学号:3019244170 
+批改日期:2021/06/03 23:47:00
+作业号:h61 
+得分/满分:0/100
+结果类型:run_error
+结果描述:编译student.h61成功
+null
+java.lang.NullPointerException
+	at com.huawei.classroom.student.h61.MyScoreh61.doEval(MyScoreh61.java:42)
+	at com.huawei.classroom.teacher.myexam.AbstractMyScore.eval(AbstractMyScore.java:45)
+	at com.huawei.classroom.teacher.myexam.MyScoreApplication.main(MyScoreApplication.java:47)
+
+
 ============================================================
-批改日期：2021/06/01 15:46:15
-文件MD5=file unexist
-3019244170_戴润洋_h62.zip 文件不存在!
+批改日期：2021/06/03 23:49:23
+文件MD5=1be2677d1f3fd8cf4c1b8a4d2e24d676
+
+学号:3019244170 
+批改日期:2021/06/03 23:49:23
+作业号:h62 
+得分/满分:0/100
+结果类型:测试用例有失败
+结果描述:编译student.h62成功
+null
+case 1 test case  fail !
+case 2 test case  fail !
+null
+case 3 test case  fail !
+
 ============================================================

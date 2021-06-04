@@ -1,6 +1,39 @@
-批改日期：2021/06/01 15:33:59
-文件MD5=file unexist
-3019244402_韩沛龙_h19.zip 文件不存在!
+批改日期：2021/06/03 16:51:13
+文件MD5=334085ba0161261ee73b0f390d33403c
+
+学号:3019244402 
+批改日期:2021/06/03 16:51:13
+作业号:h19 
+程序号：1 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q01成功
+wangwang test case  pass !
+
+程序号：2 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q02成功
+wangwang test case  pass !
+
+程序号：3 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q03成功
+getMin test case  pass !
+
+程序号：4 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q04成功
+removeDulpicatedChar test case  pass !
+
+程序号：5 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q05成功
+sort test case  pass !
+
 ============================================================
 批改日期：2021/05/18 22:14:42
 文件MD5=05911bf48eec2158df6a9dac6642b51a
@@ -113,15 +146,72 @@ case 1 测试用例通过!
 case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/06/01 15:43:17
-文件MD5=file unexist
-3019244402_韩沛龙_h60.zip 文件不存在!
+批改日期：2021/06/03 17:14:51
+文件MD5=46143e2ea220303603b4891d92f2b403
+
+学号:3019244402 
+批改日期:2021/06/03 17:14:51
+作业号:h60 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h60成功
+程序执行超时，最长时间限制：15000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 test case 1 pass !
+case 2 test case 2 pass !
+case 3 test case 3 pass !
+
 ============================================================
-批改日期：2021/06/01 15:45:26
-文件MD5=file unexist
-3019244402_韩沛龙_h61.zip 文件不存在!
+批改日期：2021/06/03 17:24:48
+文件MD5=a31d4cf5824b1a25c7cbf7b8a2993d00
+
+学号:3019244402 
+批改日期:2021/06/03 17:24:48
+作业号:h61 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h61成功
+getDeaths=0
+test case 1 DeathRate=0 test case 1 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 test case 2 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
+
+
+getDeaths=16318
+getPatients=35947
+getCured=16965
+getLatents=4295
+test case 4  ImmuEffect=0  test case 4 pass !
+
+
+getDeaths=2
+getPatients=39
+getCured=377
+getLatents=49
+test case 5  default setting test case 5 pass !
+
 ============================================================
-批改日期：2021/06/01 15:46:53
-文件MD5=file unexist
-3019244402_韩沛龙_h62.zip 文件不存在!
+批改日期：2021/06/03 17:30:51
+文件MD5=5498db0e54f78a83ee8585402af176d2
+
+学号:3019244402 
+批改日期:2021/06/03 17:30:51
+作业号:h62 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h62成功
+程序执行超时，最长时间限制：15000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 test case  pass !
+case 2 test case  pass !
+case 3 test case  pass !
+
 ============================================================

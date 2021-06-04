@@ -1,4 +1,4 @@
-批改日期：2021/06/01 15:33:46
+批改日期：2021/06/04 12:05:56
 文件MD5=file unexist
 3019244304_周雨辰_h19.zip 文件不存在!
 ============================================================
@@ -27,9 +27,17 @@ case 1 测试用例通过!
 case 2 测试用例通过!
 
 ============================================================
-批改日期：2021/06/01 15:36:13
-文件MD5=file unexist
-3019244304_周雨辰_h53.zip 文件不存在!
+批改日期：2021/06/02 11:21:04
+文件MD5=b4f56a95281b40c7316934dd02e15185
+
+学号:3019244304 
+批改日期:2021/06/02 11:21:04
+作业号:h53 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h53成功
+case 1 测试用例通过!
+
 ============================================================
 批改日期：2021/05/17 20:27:10
 文件MD5=0cdba47ea61b4f77a356167725effd7b
@@ -81,38 +89,95 @@ case 1 测试用例通过!
 case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/06/01 15:40:03
-文件MD5=3eeb577545618bd96cc2a5e85e803c7f
+批改日期：2021/06/03 17:02:24
+文件MD5=21d76ab9d98ac829315329a7d97c8c1c
 
 学号:3019244304 
-批改日期:2021/06/01 15:40:04
+批改日期:2021/06/03 17:02:24
 作业号:h58 
-得分/满分:0/100
-结果类型:run_error
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h58成功
-null
-java.lang.NullPointerException
-	at com.huawei.classroom.student.h58.MyScoreh58.lambda$doEval$0(MyScoreh58.java:37)
-	at com.huawei.classroom.teacher.myexam.CTestCase.test(CTestCase.java:84)
-	at com.huawei.classroom.student.h58.MyScoreh58.doEval(MyScoreh58.java:43)
-	at com.huawei.classroom.teacher.myexam.AbstractMyScore.eval(AbstractMyScore.java:43)
-	at com.huawei.classroom.teacher.myexam.MyScoreApplication.main(MyScoreApplication.java:45)
-
+case 1 test case  pass !
 
 ============================================================
-批改日期：2021/06/01 15:41:15
-文件MD5=file unexist
-3019244304_周雨辰_h59.zip 文件不存在!
+批改日期：2021/06/02 11:25:05
+文件MD5=5901881864eb31e3a4c8e6b237414444
+
+学号:3019244304 
+批改日期:2021/06/02 11:25:05
+作业号:h59 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h59成功
+case 1 测试用例通过!
+
 ============================================================
-批改日期：2021/06/01 15:43:09
-文件MD5=file unexist
-3019244304_周雨辰_h60.zip 文件不存在!
+批改日期：2021/06/03 17:11:03
+文件MD5=cfe4839ef5b787b234f2c1fb07dd41b9
+
+学号:3019244304 
+批改日期:2021/06/03 17:11:03
+作业号:h60 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h60成功
+程序执行超时，最长时间限制：15000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 test case 1 pass !
+case 2 test case 2 pass !
+case 3 test case 3 pass !
+
 ============================================================
-批改日期：2021/06/01 15:44:53
-文件MD5=file unexist
-3019244304_周雨辰_h61.zip 文件不存在!
+批改日期：2021/06/03 17:22:27
+文件MD5=c1ed0df28e2156e64941f2b7eb0c0c74
+
+学号:3019244304 
+批改日期:2021/06/03 17:22:27
+作业号:h61 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h61成功
+getDeaths=0
+test case 1 DeathRate=0 test case 1 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 test case 2 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
+
+
+getDeaths=17489
+getPatients=35171
+getCured=18283
+getLatents=4057
+test case 4  ImmuEffect=0  test case 4 pass !
+
+
+getDeaths=22
+getPatients=191
+getCured=539
+getLatents=153
+test case 5  default setting test case 5 pass !
+
 ============================================================
-批改日期：2021/06/01 15:46:45
-文件MD5=file unexist
-3019244304_周雨辰_h62.zip 文件不存在!
+批改日期：2021/06/03 17:28:46
+文件MD5=5f6db6186cfd87ee050d10fc71091494
+
+学号:3019244304 
+批改日期:2021/06/03 17:28:46
+作业号:h62 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h62成功
+case 1 test case  pass !
+case 2 test case  pass !
+case 3 test case  pass !
+
 ============================================================

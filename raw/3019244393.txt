@@ -1,8 +1,8 @@
-批改日期：2021/05/30 22:27:00
-文件MD5=224c934a8447c563fff5d962dda91fda
+批改日期：2021/06/02 11:18:56
+文件MD5=b0e9ff76cdf1feb5cdad553f34209b69
 
 学号:3019244393 
-批改日期:2021/05/30 22:27:00
+批改日期:2021/06/02 11:18:56
 作业号:h19 
 程序号：1 
 得分/满分:20/20
@@ -29,25 +29,10 @@ getMin 测试用例通过!
 removeDulpicatedChar 测试用例通过!
 
 程序号：5 
-得分/满分:0/20
-结果类型:file_un_exits
-结果描述:编译student.h19.q05失败
-D:\java_test\STU_COMPILE_HOME\h19\3019244393\com\huawei\classroom\student\h19\q05\MyScoreh19q05.java:28: 错误: 找不到符号
-		StudentUtil util = new StudentUtil();
-		^
-  符号:   类 StudentUtil
-  位置: 类 com.huawei.classroom.student.h19.q05.MyScoreh19q05
-D:\java_test\STU_COMPILE_HOME\h19\3019244393\com\huawei\classroom\student\h19\q05\MyScoreh19q05.java:28: 错误: 找不到符号
-		StudentUtil util = new StudentUtil();
-		                       ^
-  符号:   类 StudentUtil
-  位置: 类 com.huawei.classroom.student.h19.q05.MyScoreh19q05
-D:\java_test\STU_COMPILE_HOME\h19\3019244393\com\huawei\classroom\student\h19\q05\MyScoreh19q05.java:33: 错误: 找不到符号
-		t.setPredicate((StudentUtil h) -> {
-		                ^
-  符号:   类 StudentUtil
-  位置: 类 com.huawei.classroom.student.h19.q05.MyScoreh19q05
-student.h19.q05 目录下没有编译好的文件！
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q05成功
+sort 测试用例通过!
 
 ============================================================
 批改日期：2021/05/18 22:14:34
@@ -161,23 +146,71 @@ case 1 测试用例通过!
 case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/06/01 15:43:17
-文件MD5=file unexist
-3019244393_高金卫_h60.zip 文件不存在!
-============================================================
-批改日期：2021/06/01 15:45:18
-文件MD5=f8aaf4d35834993435a134598c1468af
+批改日期：2021/06/03 17:13:46
+文件MD5=b3f266cb2ae68ce26c0cfe60dc879797
 
 学号:3019244393 
-批改日期:2021/06/01 15:45:18
-作业号:h61 
-得分/满分:0/100
-结果类型:run_error
-结果描述:编译student.h61成功
-程序执行超时，最长时间限制：8000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+批改日期:2021/06/03 17:13:46
+作业号:h60 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h60成功
+程序执行超时，最长时间限制：15000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 test case 1 pass !
+case 2 test case 2 pass !
+case 3 test case 3 pass !
 
 ============================================================
-批改日期：2021/06/01 15:46:53
-文件MD5=file unexist
-3019244393_高金卫_h62.zip 文件不存在!
+批改日期：2021/06/03 17:24:18
+文件MD5=a562d313ca2e1e289b44c0703c16d973
+
+学号:3019244393 
+批改日期:2021/06/03 17:24:18
+作业号:h61 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h61成功
+getDeaths=0
+test case 1 DeathRate=0 test case 1 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 test case 2 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
+
+
+getDeaths=15353
+getPatients=36853
+getCured=16245
+getLatents=5151
+test case 4  ImmuEffect=0  test case 4 pass !
+
+
+getDeaths=13
+getPatients=238
+getCured=579
+getLatents=261
+test case 5  default setting test case 5 pass !
+
+============================================================
+批改日期：2021/06/03 17:30:11
+文件MD5=63599aa33029f46e422f94dacff63423
+
+学号:3019244393 
+批改日期:2021/06/03 17:30:11
+作业号:h62 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h62成功
+case 1 test case  pass !
+case 2 test case  pass !
+case 3 test case  pass !
+
 ============================================================

@@ -172,19 +172,57 @@ case3: sa=[null]	sb=[null]	sc=[a]
 case 3 测试用例3通过!
 
 ============================================================
-批改日期：2021/05/31 21:41:43
-文件MD5=f9a23a1d34632c455ebcee75a756ee37
+批改日期：2021/06/03 23:47:19
+文件MD5=a55fbc6a54940ac4e64251de6cce0443
 
 学号:3019244272 
-批改日期:2021/05/31 21:41:43
+批改日期:2021/06/03 23:47:19
 作业号:h61 
-得分/满分:0/100
-结果类型:run_error
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h61成功
-程序执行超时，最长时间限制：8000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+getDeaths=0
+test case 1 DeathRate=0 test case 1 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 test case 2 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
+
+
+getDeaths=16990
+getPatients=35439
+getCured=18160
+getLatents=4537
+test case 4  ImmuEffect=0  test case 4 pass !
+
+
+getDeaths=4
+getPatients=165
+getCured=474
+getLatents=156
+test case 5  default setting test case 5 pass !
 
 ============================================================
-批改日期：2021/06/01 15:46:45
-文件MD5=file unexist
-3019244272_何志凌_h62.zip 文件不存在!
+批改日期：2021/06/04 12:12:52
+文件MD5=741ac5a9c863d274e1e9dee907668ab6
+
+学号:3019244272 
+批改日期:2021/06/04 12:12:52
+作业号:h62 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h62成功
+程序执行超时，最长时间限制：15000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 test case  pass !
+case 2 test case  pass !
+case 3 test case  pass !
+
 ============================================================

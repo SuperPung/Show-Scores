@@ -1,4 +1,4 @@
-批改日期：2021/06/01 15:33:09
+批改日期：2021/06/04 12:05:56
 文件MD5=file unexist
 3019244126_高子龙_h19.zip 文件不存在!
 ============================================================
@@ -27,16 +27,16 @@ case 1 测试用例通过!
 case 2 测试用例通过!
 
 ============================================================
-批改日期：2021/05/18 16:00:29
-文件MD5=a0339d22ff99efa442624597fed23c52
+批改日期：2021/06/02 11:20:47
+文件MD5=bc472896c5daa7b66cda18d7fa7ede7d
 
 学号:3019244126 
-批改日期:2021/05/18 16:00:29
+批改日期:2021/06/02 11:20:47
 作业号:h53 
-得分/满分:0/100
-结果类型:测试用例有失败
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h53成功
-case 1 测试用例失败!
+case 1 测试用例通过!
 
 ============================================================
 批改日期：2021/05/17 20:26:00
@@ -101,16 +101,16 @@ case 1 测试用例通过!
 case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/05/31 21:38:02
-文件MD5=5e0005b6119352fcc8d54c400ffaa9f0
+批改日期：2021/06/03 17:04:09
+文件MD5=43032a95362d391dc1b603df1e12a8da
 
 学号:3019244126 
-批改日期:2021/05/31 21:38:02
+批改日期:2021/06/03 17:04:09
 作业号:h59 
-得分/满分:0/100
-结果类型:测试用例有失败
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h59成功
-case 1 测试用例失败!
+case 1 test case  pass !
 
 ============================================================
 批改日期：2021/05/30 22:31:30
@@ -139,43 +139,43 @@ case3: sa=[null]	sb=[null]	sc=[a]
 case 3 测试用例3通过!
 
 ============================================================
-批改日期：2021/05/31 21:40:58
-文件MD5=544133b0514b604961332f01dccda320
+批改日期：2021/06/03 20:43:28
+文件MD5=3577018e7610a907c7bc21be6da32d40
 
 学号:3019244126 
-批改日期:2021/05/31 21:40:58
+批改日期:2021/06/03 20:43:28
 作业号:h61 
-得分/满分:40/100
-结果类型:测试用例有失败
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h61成功
 getDeaths=0
-test case 1 DeathRate=0 测试用例1通过!
+test case 1 DeathRate=0 test case 1 pass !
 
 
-getPatients=1290
-getDeaths=2
-getCured=1885
-test case 2 SpreadRate=0 测试用例2失败!
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 test case 2 pass !
 
 
-getPatients=1291
-getDeaths=4
-getCured=1886
-test case 3 ImmuEffect=1 setImmuRate=1 测试用例3失败!
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
 
 
-getDeaths=3698
-getPatients=2610
-getCured=5490
-getLatents=2707
-test case 4  ImmuEffect=0  测试用例4失败!
+getDeaths=16903
+getPatients=35789
+getCured=17695
+getLatents=4157
+test case 4  ImmuEffect=0  test case 4 pass !
 
 
-getDeaths=5022
-getPatients=3126
-getCured=6835
-getLatents=1071
-test case 5  default setting 测试用例5通过!
+getDeaths=6
+getPatients=100
+getCured=421
+getLatents=101
+test case 5  default setting test case 5 pass !
 
 ============================================================
 批改日期：2021/06/01 15:46:06

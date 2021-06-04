@@ -1,4 +1,4 @@
-批改日期：2021/06/01 15:32:54
+批改日期：2021/06/04 12:05:39
 文件MD5=file unexist
 3019201120_樊兴宇_h19.zip 文件不存在!
 ============================================================
@@ -14,32 +14,29 @@
 case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/05/26 23:37:03
-文件MD5=2fccf8f4ce4509af2cca2fc3719383c3
+批改日期：2021/06/03 16:53:15
+文件MD5=8a0885823017002a6f937d39cd8547cc
 
 学号:3019201120 
-批改日期:2021/05/26 23:37:03
+批改日期:2021/06/03 16:53:15
 作业号:h52 
-得分/满分:50/100
-结果类型:测试用例有失败
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h52成功
-case 1 测试用例失败!
-case 2 测试用例通过!
+case 1 test case  pass !
+case 2 test case  pass !
 
 ============================================================
-批改日期：2021/05/26 23:37:28
-文件MD5=13b1ffe46dc2f16cbb77c16eba4f58ac
+批改日期：2021/06/03 16:54:30
+文件MD5=b768f8aa1333e8dfb189626b1a11796c
 
 学号:3019201120 
-批改日期:2021/05/26 23:37:28
+批改日期:2021/06/03 16:54:30
 作业号:h53 
-得分/满分:0/100
-结果类型:file_un_exits
-结果描述:编译student.h53失败
-D:\java_test\STU_COMPILE_HOME\h53\3019201120\com\huawei\classroom\student\h53\RabbitCount.java:11: 错误: 程序包cn.com.enorth.utility不存在
-import cn.com.enorth.utility.Beans;
-                            ^
-student.h53 目录下没有编译好的文件！
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h53成功
+case 1 test case  pass !
 
 ============================================================
 批改日期：2021/05/26 23:37:53
@@ -142,11 +139,56 @@ case3: sa=[null]	sb=[null]	sc=[a]
 case 3 测试用例3通过!
 
 ============================================================
-批改日期：2021/06/01 15:43:33
-文件MD5=file unexist
-3019201120_樊兴宇_h61.zip 文件不存在!
+批改日期：2021/06/03 20:42:58
+文件MD5=026320fe5f4599b571e8d1ea312b997a
+
+学号:3019201120 
+批改日期:2021/06/03 20:42:58
+作业号:h61 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h61成功
+getDeaths=0
+test case 1 DeathRate=0 test case 1 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 test case 2 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
+
+
+getDeaths=16289
+getPatients=35312
+getCured=16994
+getLatents=4306
+test case 4  ImmuEffect=0  test case 4 pass !
+
+
+getDeaths=7
+getPatients=105
+getCured=536
+getLatents=75
+test case 5  default setting test case 5 pass !
+
 ============================================================
-批改日期：2021/06/01 15:45:59
-文件MD5=file unexist
-3019201120_樊兴宇_h62.zip 文件不存在!
+批改日期：2021/06/03 20:47:09
+文件MD5=7e01254970a52d9519fd23dbac3b4516
+
+学号:3019201120 
+批改日期:2021/06/03 20:47:09
+作业号:h62 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h62成功
+case 1 test case  pass !
+case 2 test case  pass !
+case 3 test case  pass !
+
 ============================================================

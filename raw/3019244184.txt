@@ -1,26 +1,17 @@
-批改日期：2021/06/01 15:33:22
+批改日期：2021/06/04 12:05:56
 文件MD5=file unexist
 3019244184_宋杰_h19.zip 文件不存在!
 ============================================================
-批改日期：2021/05/18 22:12:53
-文件MD5=89f9cfcb69c36576ee94660e515bb612
+批改日期：2021/06/02 11:19:35
+文件MD5=9bdc90e4babfc3d644229c86f2c3fa3d
 
 学号:3019244184 
-批改日期:2021/05/18 22:12:53
+批改日期:2021/06/02 11:19:35
 作业号:h51 
-得分/满分:0/100
-结果类型:run_error
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h51成功
-bound must be positive
-java.lang.IllegalArgumentException: bound must be positive
-	at java.util.Random.nextInt(Unknown Source)
-	at com.huawei.classroom.student.h51.HongBao.getHongbao(HongBao.java:26)
-	at com.huawei.classroom.student.h51.MyScoreh51.lambda$doEval$0(MyScoreh51.java:34)
-	at com.huawei.classroom.teacher.myexam.CTestCase.test(CTestCase.java:74)
-	at com.huawei.classroom.student.h51.MyScoreh51.doEval(MyScoreh51.java:38)
-	at com.huawei.classroom.teacher.myexam.AbstractMyScore.eval(AbstractMyScore.java:38)
-	at com.huawei.classroom.teacher.myexam.MyScoreApplication.main(MyScoreApplication.java:45)
-
+case 1 测试用例通过!
 
 ============================================================
 批改日期：2021/05/17 20:20:17
@@ -62,18 +53,16 @@ case 2 测试用例通过!
 case 3 测试用例通过!
 
 ============================================================
-批改日期：2021/05/26 19:13:27
-文件MD5=26c3956a7931da4c7c533081d918db38
+批改日期：2021/06/02 11:22:01
+文件MD5=06356ac8272319c016fe30f7b70a3dc2
 
 学号:3019244184 
-批改日期:2021/05/26 19:13:27
+批改日期:2021/06/02 11:22:02
 作业号:h55 
-得分/满分:0/100
-结果类型:run_error
-结果描述:编译student.h55失败
-D:\java_test\STU_COMPILE_HOME\h55\3019244184\com\huawei\classroom\student\h55\MyScoreh55.java:34: 错误: 未报告的异常错误java.lang.Exception; 必须对其进行捕获或声明以便抛出
-			 h.analysis("D:/java_test/sandbox/read/dufu.txt", chars);
-			           ^
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h55成功
+case 1 测试用例通过!
 
 ============================================================
 批改日期：2021/06/01 15:37:49
@@ -124,15 +113,82 @@ case 1 测试用例通过!
 case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/06/01 15:42:43
-文件MD5=file unexist
-3019244184_宋杰_h60.zip 文件不存在!
+批改日期：2021/06/02 11:26:54
+文件MD5=ddf124a0654d67102e0c89a79b51a929
+
+学号:3019244184 
+批改日期:2021/06/02 11:26:54
+作业号:h60 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h60成功
+程序执行超时，最长时间限制：8000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 测试用例1通过!
+case2 i=:0sa=[null]	sb=[0]	sc=[0]
+
+case2 i=:1sa=[null]	sb=[1]	sc=[1]
+
+case2 i=:2sa=[null]	sb=[2]	sc=[2]
+
+case2 i=:3sa=[null]	sb=[3]	sc=[3]
+
+case2 i=:4sa=[null]	sb=[4]	sc=[4]
+
+case 2 测试用例2通过!
+case3: sa=[null]	sb=[null]	sc=[a]
+case 3 测试用例3通过!
+
 ============================================================
-批改日期：2021/06/01 15:44:18
-文件MD5=file unexist
-3019244184_宋杰_h61.zip 文件不存在!
+批改日期：2021/06/02 11:30:19
+文件MD5=be434147c5371c76f48ed21917a092ef
+
+学号:3019244184 
+批改日期:2021/06/02 11:30:19
+作业号:h61 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h61成功
+getDeaths=0
+test case 1 DeathRate=0 测试用例1通过!
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 测试用例2通过!
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 测试用例3通过!
+
+
+getDeaths=15934
+getPatients=35554
+getCured=16995
+getLatents=4524
+test case 4  ImmuEffect=0  测试用例4通过!
+
+
+getDeaths=2
+getPatients=44
+getCured=251
+getLatents=34
+test case 5  default setting 测试用例5通过!
+
 ============================================================
-批改日期：2021/06/01 15:46:25
-文件MD5=file unexist
-3019244184_宋杰_h62.zip 文件不存在!
+批改日期：2021/06/02 11:32:26
+文件MD5=95c6eba4dfd42be74dc5d7c76e777b1e
+
+学号:3019244184 
+批改日期:2021/06/02 11:32:26
+作业号:h62 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h62成功
+case 1 测试用例通过!
+case 2 测试用例通过!
+case 3 测试用例通过!
+
 ============================================================

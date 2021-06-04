@@ -1,4 +1,4 @@
-批改日期：2021/06/01 15:33:22
+批改日期：2021/06/04 12:05:56
 文件MD5=file unexist
 3019244182_朱浩民_h19.zip 文件不存在!
 ============================================================
@@ -139,9 +139,44 @@ case3: sa=[null]	sb=[null]	sc=[a]
 case 3 测试用例3通过!
 
 ============================================================
-批改日期：2021/06/01 15:44:18
-文件MD5=d41d8cd98f00b204e9800998ecf8427e
-Archive file can't be opened with none of the registered codecs
+批改日期：2021/06/02 11:30:14
+文件MD5=bd115dd7cdcbcec779f70aee708b2161
+
+学号:3019244182 
+批改日期:2021/06/02 11:30:14
+作业号:h61 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h61成功
+getDeaths=0
+test case 1 DeathRate=0 测试用例1通过!
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 测试用例2通过!
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 测试用例3通过!
+
+
+getDeaths=16425
+getPatients=35261
+getCured=17139
+getLatents=4353
+test case 4  ImmuEffect=0  测试用例4通过!
+
+
+getDeaths=2
+getPatients=2
+getCured=162
+getLatents=0
+test case 5  default setting 测试用例5通过!
+
 ============================================================
 批改日期：2021/06/01 15:46:21
 文件MD5=d583fb18b2cf6be1f4732ab8588b5aff

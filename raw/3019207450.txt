@@ -1,4 +1,4 @@
-批改日期：2021/06/01 15:32:54
+批改日期：2021/06/04 12:05:39
 文件MD5=file unexist
 3019207450_俞林昊_h19.zip 文件不存在!
 ============================================================
@@ -113,34 +113,71 @@ case 1 测试用例通过!
 case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/05/29 09:28:06
-文件MD5=6eebdc436bbc6a02034c5b27f48a7efd
+批改日期：2021/06/03 17:06:25
+文件MD5=735fd56bdb4f4c677c49ed8c61996c09
 
 学号:3019207450 
-批改日期:2021/05/29 09:28:06
+批改日期:2021/06/03 17:06:25
 作业号:h60 
-得分/满分:0/100
-结果类型:file_un_exits
-结果描述:编译student.h60失败
-D:\java_test\STU_COMPILE_HOME\h60\3019207450\com\huawei\classroom\student\h60\Chatchannel.java:3: 错误: 程序包com.huawei.classroom.student.test_socket不存在
-import com.huawei.classroom.student.test_socket.ChatChannel;
-                                               ^
-student.h60 目录下没有编译好的文件！
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h60成功
+程序执行超时，最长时间限制：15000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 test case 1 pass !
+case 2 test case 2 pass !
+case 3 test case 3 pass !
 
 ============================================================
-批改日期：2021/05/26 20:09:06
-文件MD5=3be9d837d42d376ec3e6910ae5b73359
+批改日期：2021/06/03 17:18:20
+文件MD5=e94fc2a26f366435971c2bc360ef3bba
 
 学号:3019207450 
-批改日期:2021/05/26 20:09:06
+批改日期:2021/06/03 17:18:20
 作业号:h61 
-得分/满分:0/100
-结果类型:run_error
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h61成功
-程序执行超时，最长时间限制：8000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+getDeaths=0
+test case 1 DeathRate=0 test case 1 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 test case 2 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
+
+
+getDeaths=16334
+getPatients=36368
+getCured=17278
+getLatents=4890
+test case 4  ImmuEffect=0  test case 4 pass !
+
+
+getDeaths=115
+getPatients=993
+getCured=711
+getLatents=832
+test case 5  default setting test case 5 pass !
 
 ============================================================
-批改日期：2021/06/01 15:45:59
-文件MD5=file unexist
-3019207450_俞林昊_h62.zip 文件不存在!
+批改日期：2021/06/03 17:26:48
+文件MD5=eac082e310beeb198da0d0fa7e0fa404
+
+学号:3019207450 
+批改日期:2021/06/03 17:26:48
+作业号:h62 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h62成功
+case 1 test case  pass !
+case 2 test case  pass !
+case 3 test case  pass !
+
 ============================================================

@@ -1,6 +1,39 @@
-批改日期：2021/06/01 15:33:22
-文件MD5=file unexist
-3019244163_张睿_h19.zip 文件不存在!
+批改日期：2021/06/03 20:30:57
+文件MD5=91424d7e9aa111aa579539d4aea0dd3e
+
+学号:3019244163 
+批改日期:2021/06/03 20:30:57
+作业号:h19 
+程序号：1 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q01成功
+wangwang test case  pass !
+
+程序号：2 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q02成功
+wangwang test case  pass !
+
+程序号：3 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q03成功
+getMin test case  pass !
+
+程序号：4 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q04成功
+removeDulpicatedChar test case  pass !
+
+程序号：5 
+得分/满分:20/20
+结果类型:测试用例完全通过!
+结果描述:编译student.h19.q05成功
+sort test case  pass !
+
 ============================================================
 批改日期：2021/05/18 22:12:32
 文件MD5=4df68156a629d7470b797c06dd58513a
@@ -101,19 +134,83 @@ case 1 测试用例通过!
 case 1 测试用例通过!
 
 ============================================================
-批改日期：2021/06/01 15:40:56
-文件MD5=file unexist
-3019244163_张睿_h59.zip 文件不存在!
+批改日期：2021/06/03 22:43:05
+文件MD5=af2594bc814a5a45c83971da7442cf2c
+
+学号:3019244163 
+批改日期:2021/06/03 22:43:05
+作业号:h59 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h59成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:42:09
-文件MD5=file unexist
-3019244163_张睿_h60.zip 文件不存在!
+批改日期：2021/06/03 20:40:16
+文件MD5=3a5e1678525fb46fdfdc25392bf315f5
+
+学号:3019244163 
+批改日期:2021/06/03 20:40:17
+作业号:h60 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h60成功
+程序执行超时，最长时间限制：15000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 test case 1 pass !
+case 2 test case 2 pass !
+case 3 test case 3 pass !
+
 ============================================================
-批改日期：2021/06/01 15:43:56
-文件MD5=file unexist
-3019244163_张睿_h61.zip 文件不存在!
+批改日期：2021/06/03 20:43:41
+文件MD5=d3f8f8db30a86c59ee756d6bd05b6f60
+
+学号:3019244163 
+批改日期:2021/06/03 20:43:41
+作业号:h61 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h61成功
+getDeaths=0
+test case 1 DeathRate=0 test case 1 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 test case 2 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
+
+
+getDeaths=16857
+getPatients=35268
+getCured=17787
+getLatents=4083
+test case 4  ImmuEffect=0  test case 4 pass !
+
+
+getDeaths=3
+getPatients=30
+getCured=266
+getLatents=17
+test case 5  default setting test case 5 pass !
+
 ============================================================
-批改日期：2021/06/01 15:46:15
-文件MD5=file unexist
-3019244163_张睿_h62.zip 文件不存在!
+批改日期：2021/06/03 22:51:23
+文件MD5=9eb2e3ecf7428774c2e88b4ef5a5ad7d
+
+学号:3019244163 
+批改日期:2021/06/03 22:51:23
+作业号:h62 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h62成功
+case 1 test case  pass !
+case 2 test case  pass !
+case 3 test case  pass !
+
 ============================================================

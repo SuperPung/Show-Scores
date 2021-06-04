@@ -1,52 +1,291 @@
-批改日期：2021/06/01 15:33:09
-文件MD5=file unexist
-3019244122_邓玉杰_h19.zip 文件不存在!
+批改日期：2021/06/03 16:49:04
+文件MD5=7541807a4faf4166a104416118e1044f
+
+学号:3019244122 
+批改日期:2021/06/03 16:49:04
+作业号:h19 
+程序号：1 
+得分/满分:0/20
+结果类型:file_un_exits
+结果描述:编译student.h19.q01失败
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q01\MyScoreh19q01.java:31: 错误: 找不到符号
+		Dog dog=new Dog();
+		^
+  符号:   类 Dog
+  位置: 类 com.huawei.classroom.student.h19.q01.MyScoreh19q01
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q01\MyScoreh19q01.java:31: 错误: 找不到符号
+		Dog dog=new Dog();
+		            ^
+  符号:   类 Dog
+  位置: 类 com.huawei.classroom.student.h19.q01.MyScoreh19q01
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q01\MyScoreh19q01.java:40: 错误: 找不到符号
+		t.setPredicate((Dog h) -> {
+		                ^
+  符号:   类 Dog
+  位置: 类 com.huawei.classroom.student.h19.q01.MyScoreh19q01
+student.h19.q01 目录下没有编译好的文件！
+
+程序号：2 
+得分/满分:0/20
+结果类型:file_un_exits
+结果描述:编译student.h19.q02失败
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q02\MyScoreh19q02.java:31: 错误: 找不到符号
+		Person p=new Student("tom2"); 
+		^
+  符号:   类 Person
+  位置: 类 com.huawei.classroom.student.h19.q02.MyScoreh19q02
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q02\MyScoreh19q02.java:31: 错误: 找不到符号
+		Person p=new Student("tom2"); 
+		             ^
+  符号:   类 Student
+  位置: 类 com.huawei.classroom.student.h19.q02.MyScoreh19q02
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q02\MyScoreh19q02.java:36: 错误: 找不到符号
+		t.setPredicate((Student h) -> {
+		                ^
+  符号:   类 Student
+  位置: 类 com.huawei.classroom.student.h19.q02.MyScoreh19q02
+student.h19.q02 目录下没有编译好的文件！
+
+程序号：3 
+得分/满分:0/20
+结果类型:file_un_exits
+结果描述:编译student.h19.q03失败
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q03\MyScoreh19q03.java:29: 错误: 找不到符号
+		ArrayUtil util=new ArrayUtil();
+		^
+  符号:   类 ArrayUtil
+  位置: 类 com.huawei.classroom.student.h19.q03.MyScoreh19q03
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q03\MyScoreh19q03.java:29: 错误: 找不到符号
+		ArrayUtil util=new ArrayUtil();
+		                   ^
+  符号:   类 ArrayUtil
+  位置: 类 com.huawei.classroom.student.h19.q03.MyScoreh19q03
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q03\MyScoreh19q03.java:37: 错误: 找不到符号
+		t.setPredicate((ArrayUtil h) -> {
+		                ^
+  符号:   类 ArrayUtil
+  位置: 类 com.huawei.classroom.student.h19.q03.MyScoreh19q03
+student.h19.q03 目录下没有编译好的文件！
+
+程序号：4 
+得分/满分:0/20
+结果类型:file_un_exits
+结果描述:编译student.h19.q04失败
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q04\MyScoreh19q04.java:29: 错误: 找不到符号
+		StrUtil util=new StrUtil();
+		^
+  符号:   类 StrUtil
+  位置: 类 com.huawei.classroom.student.h19.q04.MyScoreh19q04
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q04\MyScoreh19q04.java:29: 错误: 找不到符号
+		StrUtil util=new StrUtil();
+		                 ^
+  符号:   类 StrUtil
+  位置: 类 com.huawei.classroom.student.h19.q04.MyScoreh19q04
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q04\MyScoreh19q04.java:35: 错误: 找不到符号
+		t.setPredicate((StrUtil h) -> {
+		                ^
+  符号:   类 StrUtil
+  位置: 类 com.huawei.classroom.student.h19.q04.MyScoreh19q04
+student.h19.q04 目录下没有编译好的文件！
+
+程序号：5 
+得分/满分:0/20
+结果类型:file_un_exits
+结果描述:编译student.h19.q05失败
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q05\MyScoreh19q05.java:28: 错误: 找不到符号
+		StudentUtil util = new StudentUtil();
+		^
+  符号:   类 StudentUtil
+  位置: 类 com.huawei.classroom.student.h19.q05.MyScoreh19q05
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q05\MyScoreh19q05.java:28: 错误: 找不到符号
+		StudentUtil util = new StudentUtil();
+		                       ^
+  符号:   类 StudentUtil
+  位置: 类 com.huawei.classroom.student.h19.q05.MyScoreh19q05
+D:\java_test\STU_COMPILE_HOME\h19\3019244122\com\huawei\classroom\student\h19\q05\MyScoreh19q05.java:33: 错误: 找不到符号
+		t.setPredicate((StudentUtil h) -> {
+		                ^
+  符号:   类 StudentUtil
+  位置: 类 com.huawei.classroom.student.h19.q05.MyScoreh19q05
+student.h19.q05 目录下没有编译好的文件！
+
 ============================================================
-批改日期：2021/06/01 15:34:34
-文件MD5=file unexist
-3019244122_邓玉杰_h51.zip 文件不存在!
+批改日期：2021/06/03 20:33:48
+文件MD5=878da11696967353c01f242ed71c3435
+
+学号:3019244122 
+批改日期:2021/06/03 20:33:48
+作业号:h51 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h51成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:35:10
-文件MD5=file unexist
-3019244122_邓玉杰_h52.zip 文件不存在!
+批改日期：2021/06/03 16:53:31
+文件MD5=c8f0b4b9e36368ef817a107a3606a68e
+
+学号:3019244122 
+批改日期:2021/06/03 16:53:31
+作业号:h52 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h52成功
+case 1 test case  pass !
+case 2 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:35:55
-文件MD5=file unexist
-3019244122_邓玉杰_h53.zip 文件不存在!
+批改日期：2021/06/03 20:34:58
+文件MD5=3fd9d33e743c5f15f1a0914231c57b1d
+
+学号:3019244122 
+批改日期:2021/06/03 20:34:58
+作业号:h53 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h53成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:36:48
-文件MD5=file unexist
-3019244122_邓玉杰_h54.zip 文件不存在!
+批改日期：2021/06/03 16:56:10
+文件MD5=f8f42f9edc8270c1c430e4e9f13d28f2
+
+学号:3019244122 
+批改日期:2021/06/03 16:56:10
+作业号:h54 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h54成功
+case 1 test case  pass !
+case 2 test case  pass !
+case 3 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:37:12
-文件MD5=file unexist
-3019244122_邓玉杰_h55.zip 文件不存在!
+批改日期：2021/06/03 16:57:17
+文件MD5=3442499ef66faca53c6cab6d6ff59150
+
+学号:3019244122 
+批改日期:2021/06/03 16:57:17
+作业号:h55 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h55成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:37:44
-文件MD5=file unexist
-3019244122_邓玉杰_h56.zip 文件不存在!
+批改日期：2021/06/03 16:58:48
+文件MD5=4eae3bd3ab7c55c3caada891c8fe2437
+
+学号:3019244122 
+批改日期:2021/06/03 16:58:48
+作业号:h56 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h56成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:38:48
-文件MD5=file unexist
-3019244122_邓玉杰_h57.zip 文件不存在!
+批改日期：2021/06/03 17:00:17
+文件MD5=5918bd5ef576ff4ee82bf85bba14432d
+
+学号:3019244122 
+批改日期:2021/06/03 17:00:17
+作业号:h57 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h57成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:39:40
-文件MD5=file unexist
-3019244122_邓玉杰_h58.zip 文件不存在!
+批改日期：2021/06/03 17:01:36
+文件MD5=95535e50e29bb1d00c982348322b825e
+
+学号:3019244122 
+批改日期:2021/06/03 17:01:36
+作业号:h58 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h58成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:40:53
-文件MD5=file unexist
-3019244122_邓玉杰_h59.zip 文件不存在!
+批改日期：2021/06/03 17:04:01
+文件MD5=6d80da6003c713aa3e69914020dc9162
+
+学号:3019244122 
+批改日期:2021/06/03 17:04:01
+作业号:h59 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h59成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:42:09
-文件MD5=file unexist
-3019244122_邓玉杰_h60.zip 文件不存在!
+批改日期：2021/06/03 17:08:19
+文件MD5=33acf44d307e33e642223c41e03a4d1a
+
+学号:3019244122 
+批改日期:2021/06/03 17:08:19
+作业号:h60 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h60成功
+程序执行超时，最长时间限制：15000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 test case 1 pass !
+case 2 test case 2 pass !
+case 3 test case 3 pass !
+
 ============================================================
-批改日期：2021/06/01 15:43:56
-文件MD5=file unexist
-3019244122_邓玉杰_h61.zip 文件不存在!
+批改日期：2021/06/03 17:19:43
+文件MD5=7cc52eac473e8381f91189f86f78ac12
+
+学号:3019244122 
+批改日期:2021/06/03 17:19:43
+作业号:h61 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h61成功
+getDeaths=0
+test case 1 DeathRate=0 test case 1 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 test case 2 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
+
+
+getDeaths=15677
+getPatients=35793
+getCured=16358
+getLatents=4435
+test case 4  ImmuEffect=0  test case 4 pass !
+
+
+getDeaths=4
+getPatients=57
+getCured=304
+getLatents=44
+test case 5  default setting test case 5 pass !
+
 ============================================================
-批改日期：2021/06/01 15:46:06
-文件MD5=file unexist
-3019244122_邓玉杰_h62.zip 文件不存在!
+批改日期：2021/06/03 17:27:18
+文件MD5=6ba7cbc0c546bf6938713f697d35d8ea
+
+学号:3019244122 
+批改日期:2021/06/03 17:27:18
+作业号:h62 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h62成功
+case 1 test case  pass !
+case 2 test case  pass !
+case 3 test case  pass !
+
 ============================================================

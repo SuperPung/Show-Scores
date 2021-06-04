@@ -1,52 +1,205 @@
-批改日期：2021/06/01 15:33:33
+批改日期：2021/06/04 12:05:56
 文件MD5=file unexist
 3019244260_李荣江_h19.zip 文件不存在!
 ============================================================
-批改日期：2021/06/01 15:34:40
-文件MD5=file unexist
-3019244260_李荣江_h51.zip 文件不存在!
+批改日期：2021/06/03 16:52:21
+文件MD5=5a340f4a085ca8c61656acdde9bf1b69
+
+学号:3019244260 
+批改日期:2021/06/03 16:52:21
+作业号:h51 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h51成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:35:19
-文件MD5=file unexist
-3019244260_李荣江_h52.zip 文件不存在!
+批改日期：2021/06/03 16:53:43
+文件MD5=c293ef8974b9e6a400c83c6f87c080d4
+
+学号:3019244260 
+批改日期:2021/06/03 16:53:43
+作业号:h52 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h52成功
+case 1 test case  pass !
+case 2 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:36:13
-文件MD5=file unexist
-3019244260_李荣江_h53.zip 文件不存在!
+批改日期：2021/06/03 16:55:23
+文件MD5=3ea60d5bb47f83a050cc8caa84cbd50f
+
+学号:3019244260 
+批改日期:2021/06/03 16:55:23
+作业号:h53 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h53成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:36:51
-文件MD5=file unexist
-3019244260_李荣江_h54.zip 文件不存在!
+批改日期：2021/06/03 16:56:24
+文件MD5=6aba965368241933f63ab6d453d885c6
+
+学号:3019244260 
+批改日期:2021/06/03 16:56:24
+作业号:h54 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h54成功
+case 1 test case  pass !
+case 2 test case  pass !
+case 3 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:37:19
-文件MD5=file unexist
-3019244260_李荣江_h55.zip 文件不存在!
+批改日期：2021/06/03 16:57:46
+文件MD5=959fad50a040eb204de4e45bb682f07c
+
+学号:3019244260 
+批改日期:2021/06/03 16:57:46
+作业号:h55 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h55成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:38:06
-文件MD5=file unexist
-3019244260_李荣江_h56.zip 文件不存在!
+批改日期：2021/06/03 16:59:14
+文件MD5=0824e69b7dd45fceeb83edbc6984969c
+
+学号:3019244260 
+批改日期:2021/06/03 16:59:14
+作业号:h56 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h56成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:38:56
-文件MD5=file unexist
-3019244260_李荣江_h57.zip 文件不存在!
+批改日期：2021/06/03 17:00:32
+文件MD5=be93d088e90898884e25b6fc27c36f3f
+
+学号:3019244260 
+批改日期:2021/06/03 17:00:32
+作业号:h57 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h57成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:40:00
-文件MD5=file unexist
-3019244260_李荣江_h58.zip 文件不存在!
+批改日期：2021/06/03 20:37:47
+文件MD5=83a6d69de548eab01ddedb225af0e2dd
+
+学号:3019244260 
+批改日期:2021/06/03 20:37:47
+作业号:h58 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h58成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:41:12
-文件MD5=file unexist
-3019244260_李荣江_h59.zip 文件不存在!
+批改日期：2021/06/03 20:38:42
+文件MD5=7aec16a6c8e26492fd359d4866492506
+
+学号:3019244260 
+批改日期:2021/06/03 20:38:42
+作业号:h59 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h59成功
+case 1 test case  pass !
+
 ============================================================
-批改日期：2021/06/01 15:43:00
-文件MD5=file unexist
-3019244260_李荣江_h60.zip 文件不存在!
+批改日期：2021/06/03 20:41:41
+文件MD5=d668e45dae2d85008538ea29443c1a1a
+
+学号:3019244260 
+批改日期:2021/06/03 20:41:41
+作业号:h60 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h60成功
+程序执行超时，最长时间限制：15000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 test case 1 pass !
+case 2 test case 2 pass !
+case 3 test case 3 pass !
+
 ============================================================
-批改日期：2021/06/01 15:44:53
-文件MD5=file unexist
-3019244260_李荣江_h61.zip 文件不存在!
+批改日期：2021/06/04 12:12:18
+文件MD5=e4c420a55234ea56851a28cf2dc43a0f
+
+学号:3019244260 
+批改日期:2021/06/04 12:12:18
+作业号:h61 
+得分/满分:0/100
+结果类型:run_error
+结果描述:编译student.h61失败
+D:\java_test\STU_COMPILE_HOME\h61\3019244260\com\huawei\classroom\student\h61\Person.java:72: 错误: 找不到符号
+			if (Util.getProbability(simulate.getParam().getDeathRateHome())) {
+			                                ^
+  符号:   方法 getParam()
+  位置: 类型为com.huawei.classroom.student.h61.Simulate的变量 simulate
+D:\java_test\STU_COMPILE_HOME\h61\3019244260\com\huawei\classroom\student\h61\Person.java:75: 错误: 找不到符号
+			if (Util.getProbability(simulate.getParam().getHealingRateHome())) {
+			                                ^
+  符号:   方法 getParam()
+  位置: 类型为com.huawei.classroom.student.h61.Simulate的变量 simulate
+D:\java_test\STU_COMPILE_HOME\h61\3019244260\com\huawei\classroom\student\h61\Person.java:80: 错误: 找不到符号
+			if (Util.getProbability(simulate.getParam().getDeathRateHospital())) {
+			                                ^
+  符号:   方法 getParam()
+  位置: 类型为com.huawei.classroom.student.h61.Simulate的变量 simulate
+D:\java_test\STU_COMPILE_HOME\h61\3019244260\com\huawei\classroom\student\h61\Person.java:83: 错误: 找不到符号
+			if (Util.getProbability(simulate.getParam().getHealingRateHospital())) {
+			                                ^
+  符号:   方法 getParam()
+  位置: 类型为com.huawei.classroom.student.h61.Simulate的变量 simulate
+D:\java_test\STU_COMPILE_HOME\h61\3019244260\com\huawei\classroom\student\h61\Person.java:94: 错误: 找不到符号
+				effect=simulate.getParam().getImmuEffect();
+				               ^
+  符号:   方法 getParam()
+  位置: 类型为com.huawei.classroom.student.h61.Simulate的变量 simulate
+D:\java_test\STU_COMPILE_HOME\h61\3019244260\com\huawei\classroom\student\h61\Person.java:97: 错误: 找不到符号
+				checkInfected(simulate.getParam().getSpreadRateFamily()*(1-effect) );
+				                      ^
+  符号:   方法 getParam()
+  位置: 类型为com.huawei.classroom.student.h61.Simulate的变量 simulate
+D:\java_test\STU_COMPILE_HOME\h61\3019244260\com\huawei\classroom\student\h61\Person.java:100: 错误: 找不到符号
+				checkInfected(simulate.getParam().getSpreadRateCompany()*(1-effect));
+				                      ^
+  符号:   方法 getParam()
+  位置: 类型为com.huawei.classroom.student.h61.Simulate的变量 simulate
+D:\java_test\STU_COMPILE_HOME\h61\3019244260\com\huawei\classroom\student\h61\Person.java:106: 错误: 找不到符号
+			if (this.latentDays > simulate.getParam().getLatentPeriod()) {
+			                              ^
+  符号:   方法 getParam()
+  位置: 类型为com.huawei.classroom.student.h61.Simulate的变量 simulate
+D:\java_test\STU_COMPILE_HOME\h61\3019244260\com\huawei\classroom\student\h61\Person.java:108: 错误: 找不到符号
+				simulate.getHospital().appendPatients(this);
+				                      ^
+  符号:   方法 appendPatients(com.huawei.classroom.student.h61.Person)
+  位置: 类 com.huawei.classroom.student.h61.Hospital
+D:\java_test\STU_COMPILE_HOME\h61\3019244260\com\huawei\classroom\student\h61\Person.java:117: 错误: 找不到符号
+			if (Util.getProbability(spreadRate)) {
+			        ^
+  符号:   方法 getProbability(double)
+  位置: 类 com.huawei.classroom.student.h61.Util
+
 ============================================================
-批改日期：2021/06/01 15:46:45
-文件MD5=file unexist
-3019244260_李荣江_h62.zip 文件不存在!
+批改日期：2021/06/04 12:12:48
+文件MD5=f3288531dd73ba0103c172b43c591794
+
+学号:3019244260 
+批改日期:2021/06/04 12:12:48
+作业号:h62 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h62成功
+case 1 test case  pass !
+case 2 test case  pass !
+case 3 test case  pass !
+
 ============================================================

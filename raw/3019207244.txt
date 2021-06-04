@@ -1,4 +1,4 @@
-批改日期：2021/06/01 15:32:54
+批改日期：2021/06/04 12:05:39
 文件MD5=file unexist
 3019207244_眭智杰_h19.zip 文件不存在!
 ============================================================
@@ -27,16 +27,16 @@ case 1 测试用例通过!
 case 2 测试用例通过!
 
 ============================================================
-批改日期：2021/06/01 15:35:38
-文件MD5=1dec861ad17baec08547fbd51f9d14ae
+批改日期：2021/06/03 20:34:52
+文件MD5=5bb12fed85a86c2d3c85af8562268e20
 
 学号:3019207244 
-批改日期:2021/06/01 15:35:38
+批改日期:2021/06/03 20:34:52
 作业号:h53 
-得分/满分:0/100
-结果类型:run_error
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h53成功
-程序执行超时，最长时间限制：8000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+case 1 test case  pass !
 
 ============================================================
 批改日期：2021/05/17 20:25:35
@@ -138,9 +138,44 @@ case3: sa=[null]	sb=[null]	sc=[a]
 case 3 测试用例3通过!
 
 ============================================================
-批改日期：2021/06/01 15:43:33
-文件MD5=file unexist
-3019207244_眭智杰_h61.zip 文件不存在!
+批改日期：2021/06/03 20:43:04
+文件MD5=a0a4303c020bbd33bf22c6dc9fade3d8
+
+学号:3019207244 
+批改日期:2021/06/03 20:43:04
+作业号:h61 
+得分/满分:100/100
+结果类型:测试用例完全通过!
+结果描述:编译student.h61成功
+getDeaths=0
+test case 1 DeathRate=0 test case 1 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 test case 2 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
+
+
+getDeaths=15249
+getPatients=36966
+getCured=16152
+getLatents=5212
+test case 4  ImmuEffect=0  test case 4 pass !
+
+
+getDeaths=4
+getPatients=55
+getCured=316
+getLatents=54
+test case 5  default setting test case 5 pass !
+
 ============================================================
 批改日期：2021/05/29 09:29:30
 文件MD5=e5f08a51fc734b86be1ad3e95f776b04

@@ -1,4 +1,4 @@
-批改日期：2021/06/01 15:33:46
+批改日期：2021/06/04 12:05:56
 文件MD5=file unexist
 3019244338_樊振宇_h19.zip 文件不存在!
 ============================================================
@@ -138,16 +138,43 @@ case3: sa=[null]	sb=[null]	sc=[a]
 case 3 测试用例3通过!
 
 ============================================================
-批改日期：2021/06/01 15:45:01
-文件MD5=45cc1c4f5d60b3e353373c9de742f5c0
+批改日期：2021/06/03 22:50:05
+文件MD5=a5913670aec8d594b4875fe65a9414dc
 
 学号:3019244338 
-批改日期:2021/06/01 15:45:01
+批改日期:2021/06/03 22:50:06
 作业号:h61 
-得分/满分:0/100
-结果类型:run_error
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h61成功
-程序执行超时，最长时间限制：8000 ms! 某些多线程程序有时候也会报这个错，此时注意分数就可以，可以忽略此处！
+getDeaths=0
+test case 1 DeathRate=0 test case 1 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 2 SpreadRate=0 test case 2 pass !
+
+
+getPatients=0
+getDeaths=0
+getCured=4
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
+
+
+getDeaths=15438
+getPatients=36542
+getCured=16469
+getLatents=4969
+test case 4  ImmuEffect=0  test case 4 pass !
+
+
+getDeaths=170
+getPatients=1473
+getCured=862
+getLatents=1182
+test case 5  default setting test case 5 pass !
 
 ============================================================
 批改日期：2021/06/01 15:46:48

@@ -1,4 +1,4 @@
-批改日期：2021/06/01 15:33:59
+批改日期：2021/06/04 12:06:13
 文件MD5=file unexist
 3019244385_唐涛_h19.zip 文件不存在!
 ============================================================
@@ -139,43 +139,43 @@ case3: sa=[null]	sb=[null]	sc=[a]
 case 3 测试用例3通过!
 
 ============================================================
-批改日期：2021/05/29 09:29:12
-文件MD5=3e186729f8010ec64fa711a82470409e
+批改日期：2021/06/03 17:24:09
+文件MD5=108aa65c85187942b0571d0af969f69f
 
 学号:3019244385 
-批改日期:2021/05/29 09:29:12
+批改日期:2021/06/03 17:24:09
 作业号:h61 
-得分/满分:40/100
-结果类型:测试用例有失败
+得分/满分:100/100
+结果类型:测试用例完全通过!
 结果描述:编译student.h61成功
 getDeaths=0
-test case 1 DeathRate=0 测试用例1通过!
+test case 1 DeathRate=0 test case 1 pass !
 
 
-getPatients=5138
+getPatients=4
 getDeaths=0
-getCured=1158
-test case 2 SpreadRate=0 测试用例2失败!
+getCured=0
+test case 2 SpreadRate=0 test case 2 pass !
 
 
-getPatients=5138
+getPatients=4
 getDeaths=0
-getCured=1162
-test case 3 ImmuEffect=1 setImmuRate=1 测试用例3失败!
+getCured=0
+test case 3 ImmuEffect=1 setImmuRate=1 test case 3 pass !
 
 
-getDeaths=18370
-getPatients=49424
-getCured=19794
-getLatents=6294
-test case 4  ImmuEffect=0  测试用例4通过!
+getDeaths=18352
+getPatients=36258
+getCured=18858
+getLatents=3677
+test case 4  ImmuEffect=0  test case 4 pass !
 
 
-getDeaths=18438
-getPatients=50066
-getCured=20190
-getLatents=6964
-test case 5  default setting 测试用例5失败!
+getDeaths=1377
+getPatients=7296
+getCured=1448
+getLatents=2485
+test case 5  default setting test case 5 pass !
 
 ============================================================
 批改日期：2021/05/26 19:18:41
